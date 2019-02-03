@@ -11,6 +11,7 @@ const specToClass = require("./specToClass");
 const tot = require("./Throne of Thunder");
 const urls = require("./urls");
 const valuesCorrectSince = require("./valuesCorrectSince");
+const shortRealms = require("./shortRealms");
 
 module.exports = {
     characterClasses,
@@ -25,5 +26,6 @@ module.exports = {
     specToClass,
     "Throne of Thunder": tot,
     urls,
-    valuesCorrectSince
+    valuesCorrectSince,
+    shortRealms
 };
