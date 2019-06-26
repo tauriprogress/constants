@@ -146,7 +146,7 @@
     "70": {
         "label": "Retribution Paladin",
         "isDps": true,
-        "image": "paladin_retributiont",
+        "image": "paladin_retribution",
         "id": 70,
         "role": "damage"
     },
