@@ -3,7 +3,7 @@
         "label": "Mistweaver Monk",
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Spell_monk_mistweaver_spec",
+        "image": "monk_mistweaver",
         "id": 270,
         "role": "heal"
     },
@@ -11,7 +11,7 @@
         "label": "Windwalker Monk",
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Spell_monk_windwalker_spec",
+        "image": "monk_windwalker",
         "id": 269,
         "role": "damage"
     },
@@ -20,7 +20,7 @@
         "isTank": true,
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Spell_monk_brewmaster_spec",
+        "image": "monk_brewmaster",
         "id": 268,
         "role": "tank"
     },
@@ -28,21 +28,21 @@
     "64": {
         "label": "Frost Mage",
         "isDps": true,
-        "image": "16px-Spell_frost_frostbolt02",
+        "image": "mage_frost",
         "id": 64,
         "role": "damage"
     },
     "63": {
         "label": "Fire Mage",
         "isDps": true,
-        "image": "16px-Spell_fire_firebolt02",
+        "image": "mage_fire",
         "id": 63,
         "role": "damage"
     },
     "62": {
         "label": "Arcane Mage",
         "isDps": true,
-        "image": "16px-Spell_holy_magicalsentry",
+        "image": "mage_arcane",
         "id": 62,
         "role": "damage"
     },
@@ -50,21 +50,21 @@
     "254": {
         "label": "Marksmanship Hunter",
         "isDps": true,
-        "image": "16px-Ability_hunter_focusedaim",
+        "image": "hunter_marksmanship",
         "id": 254,
         "role": "damage"
     },
     "253": {
         "label": "Beast Mastery Hunter",
         "isDps": true,
-        "image": "16px-Ability_hunter_bestialdiscipline",
+        "image": "hunter_beastmastery",
         "id": 253,
         "role": "damage"
     },
     "255": {
         "label": "Survival Hunter",
         "isDps": true,
-        "image": "16px-Ability_hunter_camouflage",
+        "image": "hunter_survival",
         "id": 255,
         "role": "damage"
     },
@@ -73,7 +73,7 @@
         "label": "Restoration Druid",
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Spell_nature_healingtouch",
+        "image": "druid_restoration",
         "id": 105,
         "role": "heal"
     },
@@ -82,7 +82,7 @@
         "isDps": true,
         "isTank": true,
         "isHealer": true,
-        "image": "16px-Ability_racial_bearform",
+        "image": "druid_guardian",
         "id": 104,
         "role": "tank"
     },
@@ -90,7 +90,7 @@
         "label": "Feral Druid",
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Ability_druid_catform",
+        "image": "druid_feral",
         "id": 103,
         "role": "damage"
     },
@@ -98,7 +98,7 @@
         "label": "Balance Druid",
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Spell_nature_starfall",
+        "image": "druid_balance",
         "id": 102,
         "role": "damage"
     },
@@ -108,21 +108,21 @@
         "isTank": true,
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Spell_deathknight_bloodpresence",
+        "image": "deathknight_blood",
         "id": 250,
         "role": "tank"
     },
     "251": {
         "label": "Frost Death Knight",
         "isDps": true,
-        "image": "16px-Spell_deathknight_frostpresence",
+        "image": "deathknight_frost",
         "id": 251,
         "role": "damage"
     },
     "252": {
         "label": "Unholy Death Knight",
         "isDps": true,
-        "image": "16px-Spell_deathknight_unholypresence",
+        "image": "deathknight_unholy",
         "id": 252,
         "role": "damage"
     },
@@ -130,7 +130,7 @@
     "65": {
         "label": "Holy Paladin",
         "isHealer": true,
-        "image": "16px-Spell_holy_holybolt",
+        "image": "paladin_holy",
         "id": 65,
         "role": "heal"
     },
@@ -139,14 +139,14 @@
         "isTank": true,
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Ability_paladin_shieldofthetemplar",
+        "image": "paladin_protection",
         "id": 66,
         "role": "tank"
     },
     "70": {
         "label": "Retribution Paladin",
         "isDps": true,
-        "image": "16px-Spell_holy_auraoflight",
+        "image": "paladin_retributiont",
         "id": 70,
         "role": "damage"
     },
@@ -155,14 +155,14 @@
         "label": "Discipline Priest",
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Spell_holy_powerwordshield",
+        "image": "priest_discipline",
         "id": 256,
         "role": "heal"
     },
     "257": {
         "label": "Holy Priest",
         "isHealer": true,
-        "image": "16px-Spell_holy_guardianspirit",
+        "image": "priest_holy",
         "id": 257,
         "role": "heal"
     },
@@ -170,7 +170,7 @@
         "label": "Shadow Priest",
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Spell_shadow_shadowwordpain",
+        "image": "priest_shadow",
         "id": 258,
         "role": "damage"
     },
@@ -178,7 +178,7 @@
     "259": {
         "label": "Assassination Rogue",
         "isDps": true,
-        "image": "16px-Ability_rogue_deadlybrew",
+        "image": "rogue_assassination",
         "id": 259,
         "role": "damage"
     },
@@ -192,7 +192,7 @@
     "261": {
         "label": "Subtlety Rogue",
         "isDps": true,
-        "image": "16px-Ability_stealth",
+        "image": "rogue_subtlety",
         "id": 261,
         "role": "damage"
     },
@@ -201,7 +201,7 @@
         "label": "Elemental Shaman",
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Spell_nature_lightning",
+        "image": "shaman_elemental",
         "id": 262,
         "role": "damage"
     },
@@ -209,14 +209,14 @@
         "label": "Enhancement Shaman",
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Spell_shaman_improvedstormstrike",
+        "image": "shaman_enhancement",
         "id": 263,
         "role": "damage"
     },
     "264": {
         "label": "Restoration Shaman",
         "isHealer": true,
-        "image": "16px-Spell_nature_magicimmunity",
+        "image": "shaman_restoration",
         "id": 264,
         "role": "heal"
     },
@@ -224,21 +224,21 @@
     "265": {
         "label": "Affliction Warlock",
         "isDps": true,
-        "image": "16px-Spell_shadow_deathcoil",
+        "image": "warlock_affliction",
         "id": 265,
         "role": "damage"
     },
     "266": {
         "label": "Demonology Warlock",
         "isDps": true,
-        "image": "16px-Spell_shadow_metamorphosis",
+        "image": "warlock_demonology",
         "id": 266,
         "role": "damage"
     },
     "267": {
         "label": "Destruction Warlock",
         "isDps": true,
-        "image": "16px-Spell_shadow_rainoffire",
+        "image": "warlock_destruction",
         "id": 267,
         "role": "damage"
     },
@@ -246,14 +246,14 @@
     "71": {
         "label": "Arms Warrior",
         "isDps": true,
-        "image": "16px-Ability_warrior_savageblow",
+        "image": "warrior_arms",
         "id": 71,
         "role": "damage"
     },
     "72": {
         "label": "Fury Warrior",
         "isDps": true,
-        "image": "16px-Ability_warrior_innerrage",
+        "image": "warrior_fury",
         "id": 72,
         "role": "damage"
     },
@@ -262,7 +262,7 @@
         "isTank": true,
         "isDps": true,
         "isHealer": true,
-        "image": "16px-Ability_warrior_defensivestance",
+        "image": "warrior_protection",
         "id": 73,
         "role": "tank"
     }
