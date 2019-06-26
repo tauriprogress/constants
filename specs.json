@@ -185,7 +185,7 @@
     "260": {
         "label": "Combat Rogue",
         "isDps": true,
-        "image": "ability_backstab",
+        "image": "rogue_backstab",
         "id": 260,
         "role": "damage"
     },
