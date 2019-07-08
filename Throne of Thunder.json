@@ -12,6 +12,7 @@
         { "id": 7, "name": "Looking For Raid" }
     ],
     "difficulties": [5, 6],
+    "totalBosses": 13,
     "encounters": [
         {
             "encounter_id": 1577,

@@ -12,6 +12,7 @@
         { "id": 14, "name": "Flexible" }
     ],
     "difficulties": [5, 6],
+    "totalBosses": 14,
     "encounters": [
         {
             "encounter_id": 1602,
