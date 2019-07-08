@@ -12,6 +12,7 @@ const tot = require("./Throne of Thunder");
 const urls = require("./urls");
 const valuesCorrectSince = require("./valuesCorrectSince");
 const shortRealms = require("./shortRealms");
+const raceToFaction = require("./raceToFaction");
 
 module.exports = {
     characterClasses,
@@ -27,5 +28,6 @@ module.exports = {
     "Throne of Thunder": tot,
     urls,
     valuesCorrectSince,
-    shortRealms
+    shortRealms,
+    raceToFaction
 };
