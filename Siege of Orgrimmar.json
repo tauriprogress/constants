@@ -3,6 +3,7 @@
     "expansion": 4,
     "type": 2,
     "name": "Siege of Orgrimmar",
+    "picture": "sooButton.png",
     "available_difficulties": [
         { "id": 3, "name": "10 Player" },
         { "id": 4, "name": "25 Player" },
@@ -125,14 +126,6 @@
             "encounter_name": "Garrosh Hellscream",
             "encounter_order": 3750,
             "encounter_index": 13
-        },
-        {
-            "encounter_id": 1605,
-            "encounter_map": 1136,
-            "encounter_difficulty": 0,
-            "encounter_name": "Omar's Test Encounter (Cosmetic only) DNT",
-            "encounter_order": 4000,
-            "encounter_index": 10
         }
     ]
 }
