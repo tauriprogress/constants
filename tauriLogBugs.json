@@ -1,0 +1,27 @@
+[
+    {
+        "type": "log",
+        "logId": 149325,
+        "realm": "[EN] Evermoon"
+    },
+    {
+        "type": "boss",
+        "date": {
+            "from": 0,
+            "to": 1546950226
+        },
+        "boss": 1572
+    },
+    {
+        "type": "spec",
+        "date": {
+            "from": 1565187719,
+            "to": 1573639200
+        },
+        "specId": 71,
+        "changeKey": {
+            "key": "dmg_done",
+            "value": true
+        }
+    }
+]
