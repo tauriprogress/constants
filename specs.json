@@ -5,7 +5,8 @@
         "isHealer": true,
         "image": "monk_mistweaver",
         "id": 270,
-        "role": "heal"
+        "role": "heal",
+        "rangeType": "melee"
     },
     "269": {
         "label": "Windwalker Monk",
@@ -13,7 +14,8 @@
         "isHealer": true,
         "image": "monk_windwalker",
         "id": 269,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "melee"
     },
     "268": {
         "label": "Brewmaster Monk",
@@ -22,7 +24,8 @@
         "isHealer": true,
         "image": "monk_brewmaster",
         "id": 268,
-        "role": "tank"
+        "role": "tank",
+        "rangeType": "melee"
     },
 
     "64": {
@@ -30,21 +33,24 @@
         "isDps": true,
         "image": "mage_frost",
         "id": 64,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
     "63": {
         "label": "Fire Mage",
         "isDps": true,
         "image": "mage_fire",
         "id": 63,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
     "62": {
         "label": "Arcane Mage",
         "isDps": true,
         "image": "mage_arcane",
         "id": 62,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
 
     "254": {
@@ -52,21 +58,24 @@
         "isDps": true,
         "image": "hunter_marksmanship",
         "id": 254,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
     "253": {
         "label": "Beast Mastery Hunter",
         "isDps": true,
         "image": "hunter_beastmastery",
         "id": 253,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
     "255": {
         "label": "Survival Hunter",
         "isDps": true,
         "image": "hunter_survival",
         "id": 255,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
 
     "105": {
@@ -75,7 +84,8 @@
         "isHealer": true,
         "image": "druid_restoration",
         "id": 105,
-        "role": "heal"
+        "role": "heal",
+        "rangeType": "ranged"
     },
     "104": {
         "label": "Guardian Druid",
@@ -84,7 +94,8 @@
         "isHealer": true,
         "image": "druid_guardian",
         "id": 104,
-        "role": "tank"
+        "role": "tank",
+        "rangeType": "melee"
     },
     "103": {
         "label": "Feral Druid",
@@ -92,7 +103,8 @@
         "isHealer": true,
         "image": "druid_feral",
         "id": 103,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "melee"
     },
     "102": {
         "label": "Balance Druid",
@@ -100,7 +112,8 @@
         "isHealer": true,
         "image": "druid_balance",
         "id": 102,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
 
     "250": {
@@ -110,21 +123,24 @@
         "isHealer": true,
         "image": "deathknight_blood",
         "id": 250,
-        "role": "tank"
+        "role": "tank",
+        "rangeType": "melee"
     },
     "251": {
         "label": "Frost Death Knight",
         "isDps": true,
         "image": "deathknight_frost",
         "id": 251,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "melee"
     },
     "252": {
         "label": "Unholy Death Knight",
         "isDps": true,
         "image": "deathknight_unholy",
         "id": 252,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "melee"
     },
 
     "65": {
@@ -132,7 +148,8 @@
         "isHealer": true,
         "image": "paladin_holy",
         "id": 65,
-        "role": "heal"
+        "role": "heal",
+        "rangeType": "ranged"
     },
     "66": {
         "label": "Protection Paladin",
@@ -141,14 +158,16 @@
         "isHealer": true,
         "image": "paladin_protection",
         "id": 66,
-        "role": "tank"
+        "role": "tank",
+        "rangeType": "melee"
     },
     "70": {
         "label": "Retribution Paladin",
         "isDps": true,
         "image": "paladin_retribution",
         "id": 70,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "melee"
     },
 
     "256": {
@@ -157,14 +176,16 @@
         "isHealer": true,
         "image": "priest_discipline",
         "id": 256,
-        "role": "heal"
+        "role": "heal",
+        "rangeType": "ranged"
     },
     "257": {
         "label": "Holy Priest",
         "isHealer": true,
         "image": "priest_holy",
         "id": 257,
-        "role": "heal"
+        "role": "heal",
+        "rangeType": "ranged"
     },
     "258": {
         "label": "Shadow Priest",
@@ -172,7 +193,8 @@
         "isHealer": true,
         "image": "priest_shadow",
         "id": 258,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
 
     "259": {
@@ -180,21 +202,24 @@
         "isDps": true,
         "image": "rogue_assassination",
         "id": 259,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "melee"
     },
     "260": {
         "label": "Combat Rogue",
         "isDps": true,
         "image": "rogue_combat",
         "id": 260,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "melee"
     },
     "261": {
         "label": "Subtlety Rogue",
         "isDps": true,
         "image": "rogue_subtlety",
         "id": 261,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "melee"
     },
 
     "262": {
@@ -203,7 +228,8 @@
         "isHealer": true,
         "image": "shaman_elemental",
         "id": 262,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
     "263": {
         "label": "Enhancement Shaman",
@@ -211,14 +237,16 @@
         "isHealer": true,
         "image": "shaman_enhancement",
         "id": 263,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "melee"
     },
     "264": {
         "label": "Restoration Shaman",
         "isHealer": true,
         "image": "shaman_restoration",
         "id": 264,
-        "role": "heal"
+        "role": "heal",
+        "rangeType": "ranged"
     },
 
     "265": {
@@ -226,21 +254,24 @@
         "isDps": true,
         "image": "warlock_affliction",
         "id": 265,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
     "266": {
         "label": "Demonology Warlock",
         "isDps": true,
         "image": "warlock_demonology",
         "id": 266,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
     "267": {
         "label": "Destruction Warlock",
         "isDps": true,
         "image": "warlock_destruction",
         "id": 267,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "ranged"
     },
 
     "71": {
@@ -248,14 +279,16 @@
         "isDps": true,
         "image": "warrior_arms",
         "id": 71,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "melee"
     },
     "72": {
         "label": "Fury Warrior",
         "isDps": true,
         "image": "warrior_fury",
         "id": 72,
-        "role": "damage"
+        "role": "damage",
+        "rangeType": "melee"
     },
     "73": {
         "label": "Protection Warrior",
@@ -264,6 +297,7 @@
         "isHealer": true,
         "image": "warrior_protection",
         "id": 73,
-        "role": "tank"
+        "role": "tank",
+        "rangeType": "melee"
     }
 }
