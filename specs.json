@@ -242,6 +242,7 @@
     },
     "264": {
         "label": "Restoration Shaman",
+        "isDps": true,
         "isHealer": true,
         "image": "shaman_restoration",
         "id": 264,
