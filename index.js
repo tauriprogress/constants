@@ -12,6 +12,7 @@ const urls = require("./urls");
 const shortRealms = require("./shortRealms");
 const raceToFaction = require("./raceToFaction");
 const tauriLogBugs = require("./tauriLogBugs");
+const inventoryType = require("./inventoryType");
 
 module.exports = {
     characterClasses,
@@ -27,5 +28,6 @@ module.exports = {
     urls,
     shortRealms,
     raceToFaction,
-    tauriLogBugs
+    tauriLogBugs,
+    inventoryType
 };
