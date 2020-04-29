@@ -5,6 +5,11 @@
         "realm": "[EN] Evermoon"
     },
     {
+        "type": "log",
+        "logId": 472222,
+        "realm": "[EN] Evermoon"
+    },
+    {
         "type": "boss",
         "date": {
             "from": 0,
