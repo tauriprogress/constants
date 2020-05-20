@@ -1,6 +1,11 @@
 [
     {
         "type": "log",
+        "logId": 115067,
+        "realm": "[HU] Warriors of Darkness"
+    },
+    {
+        "type": "log",
         "logId": 149325,
         "realm": "[EN] Evermoon"
     },
