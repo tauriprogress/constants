@@ -15,6 +15,11 @@
         "realm": "[EN] Evermoon"
     },
     {
+        "type": "log",
+        "logId": 1116062,
+        "realm": "[HU] Tauri WoW Server"
+    },
+    {
         "type": "boss",
         "date": {
             "from": 0,
