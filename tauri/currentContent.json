@@ -10,7 +10,7 @@
             "bossCount": 14,
             "id": 1136,
             "difficulties": [5, 6],
-            "picture": "soo.png",
+            "image": "soo.png",
             "bosses": [
                 {
                     "id": 1602,
@@ -76,7 +76,7 @@
             "bossCount": 13,
             "id": 1098,
             "difficulties": [5, 6],
-            "picture": "tot.png",
+            "image": "tot.png",
             "bosses": [
                 {
                     "id": 1577,
