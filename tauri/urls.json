@@ -1,5 +1,5 @@
 {
-    "armoryUrl": "https://tauriwow.com/armory#character-sheet.xml",
-    "serverUrl": "https://tauriprogress-server.glitch.me",
-    "iconUrl": "http://mop-static.tauri.hu/images/icons"
+    "armory": "https://tauriwow.com/armory#character-sheet.xml",
+    "server": "https://tauriprogress-server.glitch.me",
+    "icon": "http://mop-static.tauri.hu/images/icons"
 }
