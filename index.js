@@ -7,5 +7,6 @@ module.exports = {
     difficultyNames: require("./difficultyNames"),
     itemSlotNames: require("./itemSlotNames"),
     shortRealms: require("./shortRealms"),
-    tauri: require("./tauri")
+    tauri: require("./tauri"),
+    crystalsong: require("./crystalsong")
 };
