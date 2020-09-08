@@ -4,7 +4,6 @@ module.exports = {
     characterRaceNames: require("./characterRaceNames"),
     characterRaceToFaction: require("./characterRaceToFaction"),
     characterSpecToClass: require("./characterSpecToClass"),
-    difficultyNames: require("./difficultyNames"),
     itemSlotNames: require("./itemSlotNames"),
     shortRealms: require("./shortRealms"),
     tauri: require("./tauri"),

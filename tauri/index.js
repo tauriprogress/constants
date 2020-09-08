@@ -5,5 +5,6 @@ module.exports = {
     realms: require("./realms"),
     specs: require("./specs"),
     realms: require("./realms"),
-    urls: require("./urls")
+    urls: require("./urls"),
+    difficultyNames: require("./difficultyNames.json")
 };
