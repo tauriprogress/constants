@@ -1,6 +1,6 @@
 {
     "abbreviation": "Nax",
-    "raidName": "Naxxramas",
+    "name": "Naxxramas",
     "lastBoss": "Kel'thuzad",
     "totalBosses": 15,
     "raids": [
