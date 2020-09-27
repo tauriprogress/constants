@@ -7,5 +7,6 @@ module.exports = {
     itemSlotNames: require("./itemSlotNames"),
     shortRealms: require("./shortRealms"),
     tauri: require("./tauri"),
-    crystalsong: require("./crystalsong")
+    crystalsong: require("./crystalsong"),
+    raidNameToId: require("./raidNameToId.json")
 };
