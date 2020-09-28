@@ -13,60 +13,102 @@
             "image": "soo.png",
             "bosses": [
                 {
-                    "id": 1602,
-                    "name": "Immerseus"
+                    "name": "Immerseus",
+                    "difficultyIds": {
+                        "5": 1602,
+                        "6": 1602
+                    }
                 },
                 {
-                    "id": 1598,
-                    "name": "Fallen Protectors"
+                    "name": "Fallen Protectors",
+                    "difficultyIds": {
+                        "5": 1598,
+                        "6": 1598
+                    }
                 },
                 {
-                    "id": 1624,
-                    "name": "Norushen"
+                    "name": "Norushen",
+                    "difficultyIds": {
+                        "5": 1624,
+                        "6": 1624
+                    }
                 },
                 {
-                    "id": 1604,
-                    "name": "Sha of Pride"
+                    "name": "Sha of Pride",
+                    "difficultyIds": {
+                        "5": 1604,
+                        "6": 1604
+                    }
                 },
                 {
-                    "id": 1622,
-                    "name": "Galakras"
+                    "name": "Galakras",
+                    "difficultyIds": {
+                        "5": 1622,
+                        "6": 1622
+                    }
                 },
                 {
-                    "id": 1600,
-                    "name": "Iron Juggernaut"
+                    "name": "Iron Juggernaut",
+                    "difficultyIds": {
+                        "5": 1600,
+                        "6": 1600
+                    }
                 },
                 {
-                    "id": 1606,
-                    "name": "Kor'kron Dark Shaman"
+                    "name": "Kor'kron Dark Shaman",
+                    "difficultyIds": {
+                        "5": 1606,
+                        "6": 1606
+                    }
                 },
                 {
-                    "id": 1603,
-                    "name": "General Nazgrim"
+                    "name": "General Nazgrim",
+                    "difficultyIds": {
+                        "5": 1603,
+                        "6": 1603
+                    }
                 },
                 {
-                    "id": 1595,
-                    "name": "Malkorok"
+                    "name": "Malkorok",
+                    "difficultyIds": {
+                        "5": 1595,
+                        "6": 1595
+                    }
                 },
                 {
-                    "id": 1594,
-                    "name": "Spoils of Pandaria"
+                    "name": "Spoils of Pandaria",
+                    "difficultyIds": {
+                        "5": 1594,
+                        "6": 1594
+                    }
                 },
                 {
-                    "id": 1599,
-                    "name": "Thok the Bloodthirsty"
+                    "name": "Thok the Bloodthirsty",
+                    "difficultyIds": {
+                        "5": 1599,
+                        "6": 1599
+                    }
                 },
                 {
-                    "id": 1601,
-                    "name": "Siegecrafter Blackfuse"
+                    "name": "Siegecrafter Blackfuse",
+                    "difficultyIds": {
+                        "5": 1601,
+                        "6": 1601
+                    }
                 },
                 {
-                    "id": 1593,
-                    "name": "Paragons of the Klaxxi"
+                    "name": "Paragons of the Klaxxi",
+                    "difficultyIds": {
+                        "5": 1593,
+                        "6": 1593
+                    }
                 },
                 {
-                    "id": 1623,
-                    "name": "Garrosh Hellscream"
+                    "name": "Garrosh Hellscream",
+                    "difficultyIds": {
+                        "5": 1623,
+                        "6": 1623
+                    }
                 }
             ]
         },
@@ -79,62 +121,95 @@
             "image": "tot.png",
             "bosses": [
                 {
-                    "id": 1577,
-                    "name": "Jin'rokh the Breaker"
+                    "name": "Jin'rokh the Breaker",
+                    "difficultyIds": {
+                        "5": 1577,
+                        "6": 1577
+                    }
                 },
                 {
-                    "id": 1575,
-                    "name": "Horridon"
+                    "name": "Horridon",
+                    "difficultyIds": {
+                        "5": 1575,
+                        "6": 1575
+                    }
                 },
                 {
-                    "id": 1570,
-                    "name": "Council of Elders"
+                    "name": "Council of Elders",
+                    "difficultyIds": {
+                        "5": 1570,
+                        "6": 1570
+                    }
                 },
                 {
-                    "id": 1565,
-                    "name": "Tortos"
+                    "name": "Tortos",
+                    "difficultyIds": {
+                        "5": 1565,
+                        "6": 1565
+                    }
                 },
                 {
-                    "id": 1578,
-                    "name": "Megaera"
+                    "name": "Megaera",
+                    "difficultyIds": {
+                        "5": 1578,
+                        "6": 1578
+                    }
                 },
                 {
-                    "id": 1573,
-                    "name": "Ji-Kun"
+                    "name": "Ji-Kun",
+                    "difficultyIds": {
+                        "5": 1573,
+                        "6": 1573
+                    }
                 },
                 {
-                    "id": 1572,
-                    "name": "Durumu the Forgotten"
+                    "name": "Durumu the Forgotten",
+                    "difficultyIds": {
+                        "5": 1572,
+                        "6": 1572
+                    }
                 },
                 {
-                    "id": 1574,
-                    "name": "Primordius"
+                    "name": "Primordius",
+                    "difficultyIds": {
+                        "5": 1574,
+                        "6": 1574
+                    }
                 },
                 {
-                    "id": 1576,
-                    "name": "Dark Animus"
+                    "name": "Dark Animus",
+                    "difficultyIds": {
+                        "5": 1576,
+                        "6": 1576
+                    }
                 },
                 {
-                    "id": 1559,
-                    "name": "Iron Qon"
+                    "name": "Iron Qon",
+                    "difficultyIds": {
+                        "5": 1559,
+                        "6": 1559
+                    }
                 },
                 {
-                    "id": 1560,
-                    "name": "Twin Consorts"
+                    "name": "Twin Consorts",
+                    "difficultyIds": {
+                        "5": 1560,
+                        "6": 1560
+                    }
                 },
                 {
-                    "id": 1579,
-                    "name": "Lei Shen"
+                    "name": "Lei Shen",
+                    "difficultyIds": {
+                        "5": 1579,
+                        "6": 1579
+                    }
                 },
                 {
-                    "id": 1580,
                     "name": "Ra-den",
-                    "difficulty": 5
-                },
-                {
-                    "id": 1581,
-                    "name": "Ra-den",
-                    "difficulty": 6
+                    "difficultyIds": {
+                        "5": 1580,
+                        "6": 1581
+                    }
                 }
             ]
         }
