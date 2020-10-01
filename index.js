@@ -1,5 +1,4 @@
 module.exports = {
-    characterClassNames: require("./characterClassNames"),
     characterClassToSpec: require("./characterClassToSpec"),
     characterRaceNames: require("./characterRaceNames"),
     characterRaceToFaction: require("./characterRaceToFaction"),
