@@ -1,12 +1,12 @@
 {
     "abbreviation": "Nax",
     "name": "Naxxramas",
-    "lastBoss": "Kel'thuzad",
+    "lastBoss": "Kel'Thuzad",
     "totalBosses": 15,
     "raids": [
         {
             "name": "Naxxramas",
-            "lastBoss": "Kel'thuzad",
+            "lastBoss": "Kel'Thuzad",
             "bossCount": 15,
             "id": 533,
             "difficulties": [0, 1],
