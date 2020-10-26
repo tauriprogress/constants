@@ -1,1 +1,540 @@
-[]
+[
+    {
+        "type": "guildData",
+        "id": 45,
+        "guildIds": { "23": true, "61319": true, "61778": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Final Core", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 2,
+        "guildIds": { "49500": true, "52264": true, "61983": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Immortals", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 31,
+        "guildIds": {
+            "49575": true,
+            "50734": true,
+            "51960": true,
+            "52869": true,
+            "52889": true,
+            "52902": true,
+            "52934": true,
+            "60299": true,
+            "60986": true,
+            "61091": true
+        },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Feierabend", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 129,
+        "guildIds": { "49616": true, "50987": true, "61895": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Boys For Jesus", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 5,
+        "guildIds": {
+            "50219": true,
+            "52291": true,
+            "53967": true,
+            "54061": true,
+            "54071": true,
+            "54860": true,
+            "54991": true
+        },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "WORLD FIRST PRACTICE", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 207,
+        "guildIds": { "50399": true, "59873": true, "61369": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Divinity", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 189,
+        "guildIds": { "50421": true, "53907": true, "63545": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Vanquish", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 40,
+        "guildIds": {
+            "50423": true,
+            "52841": true,
+            "55094": true,
+            "61370": true
+        },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "New Order", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 4,
+        "guildIds": { "50620": true, "54636": true, "61709": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Fate", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 203,
+        "guildIds": { "50624": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Aotic", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 21,
+        "guildIds": { "50692": true, "52913": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "New Dawn", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 78,
+        "guildIds": { "50723": true, "54575": true, "61335": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Sicknessel Éledek", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 143,
+        "guildIds": { "50841": true, "54354": true, "64402": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "PAJACE JEBANE", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 147,
+        "guildIds": { "51673": true, "61217": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Lighting Darkness", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 61,
+        "guildIds": { "52031": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Fusion", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 16,
+        "guildIds": { "52039": true, "61312": true, "61395": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Pantheon", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 17,
+        "guildIds": {
+            "52077": true,
+            "54527": true,
+            "60151": true,
+            "62025": true
+        },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Insane", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 3,
+        "guildIds": { "52341": true, "53590": true, "61044": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Nameless", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 58,
+        "guildIds": { "52433": true, "60740": true, "60810": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Flawless", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 333,
+        "guildIds": { "52502": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "TOTALT JÄVLA MÖRKER", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 27,
+        "guildIds": { "52519": true, "62769": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Outcast", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 158,
+        "guildIds": { "52689": true, "63801": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Holographic Universe", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 184,
+        "guildIds": { "52807": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Versatility", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 104,
+        "guildIds": { "52812": true, "61599": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "ham bois", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 151,
+        "guildIds": { "52814": true, "60981": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Dauerdicht", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 20,
+        "guildIds": { "52822": true, "60483": true, "60798": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Ex Memoriam", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 14,
+        "guildIds": { "52884": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Bully Gang", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 18,
+        "guildIds": { "52946": true, "53001": true, "61463": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "fresh mop when", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 50,
+        "guildIds": { "52990": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "frens", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 6,
+        "guildIds": { "53651": true, "61765": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Avalon", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 506,
+        "guildIds": { "53864": true, "64818": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Los Renegados", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 79,
+        "guildIds": { "54481": true, "60816": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Tabula Rasa", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 69,
+        "guildIds": { "55068": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Wednesdays", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 431,
+        "guildIds": { "55309": true, "66248": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Vanguardia de Hierro", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 11,
+        "guildIds": {
+            "54093": true,
+            "56933": true,
+            "59038": true,
+            "60863": true
+        },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "The Resistance", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 225,
+        "guildIds": { "59741": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Dark Angel", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 234,
+        "guildIds": { "59937": true, "61996": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Explicit Malding", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 261,
+        "guildIds": { "60423": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Fine", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 34,
+        "guildIds": { "60962": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "League of Brotherhood", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 105,
+        "guildIds": { "61031": true, "61032": true, "61078": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Dark Synergy", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 13,
+        "guildIds": { "61125": true, "63164": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Chaos Theory", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 82,
+        "guildIds": { "61212": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Morzsaparty", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 10,
+        "guildIds": { "61270": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Eunoia", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 88,
+        "guildIds": { "61314": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Maintenance", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 148,
+        "guildIds": { "61573": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Unbound", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 124,
+        "guildIds": { "61717": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Purgatory", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 135,
+        "guildIds": { "61804": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "RATS", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 467,
+        "guildIds": { "61888": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "alliance K E K W", "faction": 0 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 298,
+        "guildIds": { "61906": true, "61921": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Misplaced Priorities", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 22,
+        "guildIds": { "61924": true, "62183": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Debauchery Tea Party", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 195,
+        "guildIds": { "62035": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Seven Deadly Sins", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 74,
+        "guildIds": { "62213": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Eternal", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 68,
+        "guildIds": { "63562": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Faceless", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 54,
+        "guildIds": { "65644": true, "65895": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Ambition", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 136,
+        "guildIds": { "66172": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "wait me", "faction": 1 }
+        }
+    },
+    {
+        "type": "guildData",
+        "id": 67,
+        "guildIds": { "66213": true },
+        "changeKey": {
+            "key": "guilddata",
+            "value": { "name": "Only Fans", "faction": 0 }
+        }
+    }
+]
