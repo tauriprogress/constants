@@ -3,6 +3,7 @@
     "name": "Naxxramas",
     "lastBoss": "Kel'Thuzad",
     "totalBosses": 15,
+    "completionDifficulties": [1],
     "raids": [
         {
             "name": "Naxxramas",

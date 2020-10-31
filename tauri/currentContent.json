@@ -3,6 +3,7 @@
     "name": "Siege of Orgrimmar",
     "lastBoss": "Garrosh Hellscream",
     "totalBosses": 14,
+    "completionDifficulties": [5, 6],
     "raids": [
         {
             "name": "Siege of Orgrimmar",
