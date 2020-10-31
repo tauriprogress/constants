@@ -1,5 +1,101 @@
 [
     {
+        "type": "date",
+        "id": "457",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598477115
+        }
+    },
+    {
+        "type": "date",
+        "id": "467",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598478046
+        }
+    },
+    {
+        "type": "date",
+        "id": "621",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598481783
+        }
+    },
+    {
+        "type": "date",
+        "id": "638",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598486176
+        }
+    },
+    {
+        "type": "date",
+        "id": "686",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598556396
+        }
+    },
+    {
+        "type": "date",
+        "id": "1212",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598558523
+        }
+    },
+    {
+        "type": "date",
+        "id": "1393",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598557228
+        }
+    },
+    {
+        "type": "date",
+        "id": "1404",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598557596
+        }
+    },
+    {
+        "type": "date",
+        "id": "1488",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598564211
+        }
+    },
+    {
+        "type": "date",
+        "id": "1538",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598560944
+        }
+    },
+    {
+        "type": "date",
+        "id": "1608",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598564813
+        }
+    },
+    {
+        "type": "date",
+        "id": "2189",
+        "changeKey": {
+            "key": "killtime",
+            "value": 1598646155
+        }
+    },
+    {
         "type": "guildData",
         "id": 45,
         "guildIds": { "23": true, "61319": true, "61778": true },
