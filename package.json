@@ -1,6 +1,6 @@
 {
     "name": "tauriprogress-constants",
-    "version": "3.0.13",
+    "version": "3.0.14",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/tauriprogress/constants/issues"
     },
-    "homepage": "https://github.com/tauriprogress/constants#readme"
+    "homepage": "https://github.com/tauriprogress/constants#readme",
+    "dependencies": {
+        "typescript": "^4.1.3"
+    }
 }
