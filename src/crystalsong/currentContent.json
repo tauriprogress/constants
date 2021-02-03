@@ -1,157 +1,114 @@
 {
-    "abbreviation": "Nax",
-    "name": "Naxxramas",
-    "lastBoss": "Kel'Thuzad",
-    "totalBosses": 15,
+    "abbreviation": "Ulduar",
+    "name": "Ulduar",
+    "lastBoss": "Algalon the Observer",
+    "totalBosses": 14,
     "completionDifficulties": [1],
     "raids": [
         {
-            "name": "Naxxramas",
-            "lastBoss": "Kel'Thuzad",
-            "bossCount": 15,
-            "id": 533,
+            "name": "Ulduar",
+            "lastBoss": "Algalon the Observer",
+            "bossCount": 14,
+            "id": 603,
             "difficulties": [0, 1],
-            "image": "naxx.png",
+            "image": "ulduar.png",
             "bosses": [
                 {
-                    "name": "Anub'Rekhan",
+                    "name": "Flame Leviathan",
                     "difficultyIds": {
-                        "0": 673,
-                        "1": 674
+                        "0": 744,
+                        "1": 758
                     }
                 },
                 {
-                    "name": "Grand Widow Faerlina",
+                    "name": "Ignis the Furnace Master",
                     "difficultyIds": {
-                        "0": 677,
-                        "1": 678
+                        "0": 745,
+                        "1": 759
                     }
                 },
                 {
-                    "name": "Maexxna",
+                    "name": "Razorscale",
                     "difficultyIds": {
-                        "0": 679,
-                        "1": 680
+                        "0": 746,
+                        "1": 760
                     }
                 },
                 {
-                    "name": "Noth the Plaguebringer",
+                    "name": "XT-002 Deconstructor",
                     "difficultyIds": {
-                        "0": 681,
-                        "1": 682
+                        "0": 747,
+                        "1": 761
                     }
                 },
                 {
-                    "name": "Heigan the Unclean",
+                    "name": "The Iron Council",
                     "difficultyIds": {
-                        "0": 683,
-                        "1": 684
+                        "0": 748,
+                        "1": 762
                     }
                 },
                 {
-                    "name": "Loatheb",
+                    "name": "Kologarn",
                     "difficultyIds": {
-                        "0": 685,
-                        "1": 686
+                        "0": 749,
+                        "1": 763
                     }
                 },
                 {
-                    "name": "Instructor Razuvious",
+                    "name": "Auriaya",
                     "difficultyIds": {
-                        "0": 687,
-                        "1": 689
+                        "0": 750,
+                        "1": 764
                     }
                 },
                 {
-                    "name": "Gothik the Harvester",
+                    "name": "Hodir",
                     "difficultyIds": {
-                        "0": 690,
-                        "1": 691
+                        "0": 751,
+                        "1": 765
                     }
                 },
                 {
-                    "name": "The Four Horsemen",
+                    "name": "Thorim",
                     "difficultyIds": {
-                        "0": 692,
-                        "1": 693
+                        "0": 752,
+                        "1": 766
                     }
                 },
                 {
-                    "name": "Patchwerk",
+                    "name": "Freya",
                     "difficultyIds": {
-                        "0": 694,
-                        "1": 695
+                        "0": 753,
+                        "1": 767
                     }
                 },
                 {
-                    "name": "Grobbulus",
+                    "name": "Mimiron",
                     "difficultyIds": {
-                        "0": 696,
-                        "1": 697
+                        "0": 754,
+                        "1": 768
                     }
                 },
                 {
-                    "name": "Gluth",
+                    "name": "General Vezax",
                     "difficultyIds": {
-                        "0": 698,
-                        "1": 699
+                        "0": 755,
+                        "1": 769
                     }
                 },
                 {
-                    "name": "Thaddius",
+                    "name": "Yogg-Saron",
                     "difficultyIds": {
-                        "0": 700,
-                        "1": 701
+                        "0": 756,
+                        "1": 770
                     }
                 },
                 {
-                    "name": "Sapphiron",
+                    "name": "Algalon the Observer",
                     "difficultyIds": {
-                        "0": 702,
-                        "1": 703
-                    }
-                },
-                {
-                    "name": "Kel'Thuzad",
-                    "difficultyIds": {
-                        "0": 704,
-                        "1": 706
-                    }
-                }
-            ]
-        },
-        {
-            "name": "The Obsidian Sanctum",
-            "lastBoss": "Sartharion",
-            "bossCount": 1,
-            "id": 615,
-            "difficulties": [0, 1],
-            "image": "os.png",
-            "bosses": [
-                {
-                    "id": 742,
-                    "name": "Sartharion",
-                    "difficultyIds": {
-                        "0": 742,
-                        "1": 743
-                    }
-                }
-            ]
-        },
-        {
-            "name": "The Eye of Eternity",
-            "lastBoss": "Malygos",
-            "bossCount": 1,
-            "id": 616,
-            "difficulties": [0, 1],
-            "image": "eoe.png",
-            "bosses": [
-                {
-                    "id": 734,
-                    "name": "Malygos",
-                    "difficultyIds": {
-                        "0": 734,
-                        "1": 735
+                        "0": 757,
+                        "1": 771
                     }
                 }
             ]
