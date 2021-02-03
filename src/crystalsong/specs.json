@@ -66,7 +66,7 @@
         "rangeType": "ranged"
     },
     "103": {
-        "label": "Feral Druid",
+        "label": "Feral Combat Druid",
         "isDps": true,
         "isHealer": true,
         "image": "druid_feral",
