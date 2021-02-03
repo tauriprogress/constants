@@ -17,3 +17,15 @@ export { shortRealms };
 export { raidNameToId };
 export { tauri };
 export { crystalsong };
+
+export default {
+    characterClassToSpec,
+    characterRaceNames,
+    characterRaceToFaction,
+    characterSpecToClass,
+    itemSlotNames,
+    shortRealms,
+    raidNameToId,
+    tauri,
+    crystalsong
+};
