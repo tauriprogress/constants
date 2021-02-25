@@ -38,5 +38,45 @@
             "key": "dmg_done",
             "value": true
         }
+    },
+    {
+        "type": "ignoreLogOfCharacter",
+        "characterName": "Rippedx"
+    },
+    {
+        "type": "ignoreLogOfCharacter",
+        "characterName": "Senedek"
+    },
+    {
+        "type": "ignoreLogOfCharacter",
+        "characterName": "Spinëbreaker"
+    },
+    {
+        "type": "ignoreLogOfCharacter",
+        "characterName": "Minøru"
+    },
+    {
+        "type": "ignoreLogOfCharacter",
+        "characterName": "Ignocia"
+    },
+    {
+        "type": "ignoreLogOfCharacter",
+        "characterName": "Braah"
+    },
+    {
+        "type": "ignoreLogOfCharacter",
+        "characterName": "Kigami"
+    },
+    {
+        "type": "ignoreLogOfCharacter",
+        "characterName": "Arrchangel"
+    },
+    {
+        "type": "ignoreLogOfCharacter",
+        "characterName": "Madcuzbad"
+    },
+    {
+        "type": "ignoreLogOfCharacter",
+        "characterName": "Blåckhand"
     }
 ]
