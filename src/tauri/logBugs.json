@@ -78,5 +78,26 @@
     {
         "type": "ignoreLogOfCharacter",
         "characterName": "Blåckhand"
+    },
+    {
+        "type": "overwriteSpec",
+        "logId": 1625732,
+        "realm": "[EN] Evermoon",
+        "characterName": "Shrekky",
+        "specId": 265
+    },
+    {
+        "type": "overwriteSpec",
+        "logId": 1625944,
+        "realm": "[EN] Evermoon",
+        "characterName": "Shrekky",
+        "specId": 265
+    },
+    {
+        "type": "overwriteSpec",
+        "logId": 1626046,
+        "realm": "[EN] Evermoon",
+        "characterName": "Shrekky",
+        "specId": 265
     }
 ]
