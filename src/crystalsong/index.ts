@@ -6,6 +6,7 @@ import * as specs from "./specs.json";
 import * as urls from "./urls.json";
 import * as difficultyNames from "./difficultyNames.json";
 import * as characterClassNames from "./characterClassNames.json";
+import * as seasons from "./seasons.json";
 
 export { currentContent };
 export { guildFactionBugs };
@@ -15,3 +16,4 @@ export { specs };
 export { urls };
 export { difficultyNames };
 export { characterClassNames };
+export { seasons };
