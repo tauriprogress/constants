@@ -1,114 +1,51 @@
 {
-    "abbreviation": "Ulduar",
-    "name": "Ulduar",
-    "lastBoss": "Algalon the Observer",
-    "totalBosses": 14,
+    "abbreviation": "TOC",
+    "name": "Trial of the Crusader",
+    "lastBoss": "Anub'arak",
+    "totalBosses": 5,
     "completionDifficulties": [1],
     "raids": [
         {
-            "name": "Ulduar",
-            "lastBoss": "Algalon the Observer",
-            "bossCount": 14,
-            "id": 603,
+            "name": "Trial of the Crusader",
+            "lastBoss": "Anub'arak",
+            "bossCount": 5,
+            "id": 649,
             "difficulties": [0, 1],
-            "image": "ulduar.png",
+            "image": "toc.png",
             "bosses": [
                 {
-                    "name": "Flame Leviathan",
+                    "name": "Northrend Beasts",
                     "difficultyIds": {
-                        "0": 744,
-                        "1": 758
+                        "0": 629,
+                        "1": 630
                     }
                 },
                 {
-                    "name": "Ignis the Furnace Master",
+                    "name": "Lord Jaraxxus",
                     "difficultyIds": {
-                        "0": 745,
-                        "1": 759
+                        "0": 633,
+                        "1": 634
                     }
                 },
                 {
-                    "name": "Razorscale",
+                    "name": "Faction Champions",
                     "difficultyIds": {
-                        "0": 746,
-                        "1": 760
+                        "0": 637,
+                        "1": 638
                     }
                 },
                 {
-                    "name": "XT-002 Deconstructor",
+                    "name": "Val'kyr Twins",
                     "difficultyIds": {
-                        "0": 747,
-                        "1": 761
+                        "0": 641,
+                        "1": 642
                     }
                 },
                 {
-                    "name": "The Iron Council",
+                    "name": "Anub'arak",
                     "difficultyIds": {
-                        "0": 748,
-                        "1": 762
-                    }
-                },
-                {
-                    "name": "Kologarn",
-                    "difficultyIds": {
-                        "0": 749,
-                        "1": 763
-                    }
-                },
-                {
-                    "name": "Auriaya",
-                    "difficultyIds": {
-                        "0": 750,
-                        "1": 764
-                    }
-                },
-                {
-                    "name": "Hodir",
-                    "difficultyIds": {
-                        "0": 751,
-                        "1": 765
-                    }
-                },
-                {
-                    "name": "Thorim",
-                    "difficultyIds": {
-                        "0": 752,
-                        "1": 766
-                    }
-                },
-                {
-                    "name": "Freya",
-                    "difficultyIds": {
-                        "0": 753,
-                        "1": 767
-                    }
-                },
-                {
-                    "name": "Mimiron",
-                    "difficultyIds": {
-                        "0": 754,
-                        "1": 768
-                    }
-                },
-                {
-                    "name": "General Vezax",
-                    "difficultyIds": {
-                        "0": 755,
-                        "1": 769
-                    }
-                },
-                {
-                    "name": "Yogg-Saron",
-                    "difficultyIds": {
-                        "0": 756,
-                        "1": 770
-                    }
-                },
-                {
-                    "name": "Algalon the Observer",
-                    "difficultyIds": {
-                        "0": 757,
-                        "1": 771
+                        "0": 645,
+                        "1": 646
                     }
                 }
             ]
