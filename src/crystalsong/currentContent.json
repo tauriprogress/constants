@@ -3,49 +3,59 @@
     "name": "Trial of the Crusader",
     "lastBoss": "Anub'arak",
     "totalBosses": 5,
-    "completionDifficulties": [1],
+    "completionDifficulties": [3],
     "raids": [
         {
             "name": "Trial of the Crusader",
             "lastBoss": "Anub'arak",
             "bossCount": 5,
             "id": 649,
-            "difficulties": [0, 1],
+            "difficulties": [0, 1, 2, 3],
             "image": "toc.png",
             "bosses": [
                 {
                     "name": "Northrend Beasts",
                     "difficultyIds": {
                         "0": 629,
-                        "1": 630
+                        "1": 630,
+                        "2": 631,
+                        "3": 632
                     }
                 },
                 {
                     "name": "Lord Jaraxxus",
                     "difficultyIds": {
                         "0": 633,
-                        "1": 634
+                        "1": 634,
+                        "2": 635,
+                        "3": 636
                     }
                 },
                 {
                     "name": "Faction Champions",
                     "difficultyIds": {
                         "0": 637,
-                        "1": 638
+                        "1": 638,
+                        "2": 639,
+                        "3": 640
                     }
                 },
                 {
                     "name": "Val'kyr Twins",
                     "difficultyIds": {
                         "0": 641,
-                        "1": 642
+                        "1": 642,
+                        "2": 643,
+                        "3": 644
                     }
                 },
                 {
                     "name": "Anub'arak",
                     "difficultyIds": {
                         "0": 645,
-                        "1": 646
+                        "1": 646,
+                        "2": 647,
+                        "3": 648
                     }
                 }
             ]
