@@ -99,5 +99,50 @@
         "realm": "[EN] Evermoon",
         "characterName": "Shrekky",
         "specId": 265
+    },
+    {
+        "type": "ignoreCharacter",
+        "characterName": "Koala",
+        "realm": "[HU] Warriors of Darkness"
+    },
+    {
+        "type": "ignoreCharacter",
+        "characterName": "Goatgeezus",
+        "realm": "[HU] Warriors of Darkness"
+    },
+    {
+        "type": "ignoreCharacter",
+        "characterName": "Imlikepewpew",
+        "realm": "[HU] Tauri WoW Server"
+    },
+    {
+        "type": "ignoreCharacter",
+        "characterName": "Mywar",
+        "realm": "[EN] Evermoon"
+    },
+    {
+        "type": "ignoreCharacter",
+        "characterName": "Aoitori",
+        "realm": "[EN] Evermoon"
+    },
+    {
+        "type": "ignoreCharacter",
+        "characterName": "Tinygiant",
+        "realm": "[EN] Evermoon"
+    },
+    {
+        "type": "ignoreCharacter",
+        "characterName": "Fitzpleasure",
+        "realm": "[EN] Evermoon"
+    },
+    {
+        "type": "ignoreCharacter",
+        "characterName": "Fairplay",
+        "realm": "[EN] Evermoon"
+    },
+    {
+        "type": "ignoreCharacter",
+        "characterName": "Pocketpick",
+        "realm": "[EN] Evermoon"
     }
 ]
