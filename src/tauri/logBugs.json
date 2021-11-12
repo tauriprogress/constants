@@ -1,86 +1,93 @@
 [
     {
-        "type": "log",
-        "logId": 115067,
+        "type": "ignoreLogOfId",
+        "id": 115067,
         "realm": "[HU] Warriors of Darkness"
     },
     {
-        "type": "log",
-        "logId": 149325,
+        "type": "ignoreLogOfId",
+        "id": 149325,
         "realm": "[EN] Evermoon"
     },
     {
-        "type": "log",
-        "logId": 472222,
+        "type": "ignoreLogOfId",
+        "id": 472222,
         "realm": "[EN] Evermoon"
     },
     {
-        "type": "log",
-        "logId": 1116062,
+        "type": "ignoreLogOfId",
+        "id": 1116062,
         "realm": "[HU] Tauri WoW Server"
     },
     {
-        "type": "boss",
+        "type": "ignoreBossOfDate",
         "date": {
             "from": 0,
             "to": 1546950226
         },
-        "boss": 1572
+        "bossId": 1572
     },
     {
-        "type": "spec",
+        "type": "changeSpecDmgDoneOfDate",
         "date": {
             "from": 1565187719,
             "to": 1573639200
         },
         "specId": 71,
-        "changeKey": {
-            "key": "dmg_done",
-            "value": true
-        }
+        "changeTo": true
     },
     {
         "type": "ignoreLogOfCharacter",
-        "characterName": "Rippedx"
+        "name": "Rippedx",
+        "realm": "[HU] Warriors of Darkness"
     },
     {
         "type": "ignoreLogOfCharacter",
-        "characterName": "Senedek"
+        "name": "Senedek",
+        "realm": "[HU] Warriors of Darkness"
     },
     {
         "type": "ignoreLogOfCharacter",
-        "characterName": "Spinëbreaker"
+        "name": "Spinëbreaker",
+        "realm": "[HU] Warriors of Darkness"
     },
     {
         "type": "ignoreLogOfCharacter",
-        "characterName": "Minøru"
+        "name": "Minøru",
+        "realm": "[HU] Warriors of Darkness"
     },
     {
         "type": "ignoreLogOfCharacter",
-        "characterName": "Ignocia"
+        "name": "Ignocia",
+        "realm": "[EN] Evermoon"
     },
     {
         "type": "ignoreLogOfCharacter",
-        "characterName": "Braah"
+        "name": "Braah",
+        "realm": "[HU] Warriors of Darkness"
     },
     {
         "type": "ignoreLogOfCharacter",
-        "characterName": "Kigami"
+        "name": "Kigami",
+        "realm": "[HU] Warriors of Darkness"
     },
     {
         "type": "ignoreLogOfCharacter",
-        "characterName": "Arrchangel"
+        "name": "Arrchangel",
+        "realm": "[HU] Warriors of Darkness"
     },
     {
         "type": "ignoreLogOfCharacter",
-        "characterName": "Madcuzbad"
+        "name": "Madcuzbad",
+        "realm": "[HU] Warriors of Darkness"
     },
     {
         "type": "ignoreLogOfCharacter",
-        "characterName": "Blåckhand"
+        "name": "Blåckhand",
+        "realm": "[HU] Warriors of Darkness"
     },
     {
-        "type": "overwriteSpec",
+        "type": "overwriteSpecOfCharacter",
         "logId": 1625732,
         "realm": "[EN] Evermoon",
         "characterName": "Shrekky",
@@ -102,47 +109,47 @@
     },
     {
         "type": "ignoreCharacter",
-        "characterName": "Koala",
+        "name": "Koala",
         "realm": "[HU] Warriors of Darkness"
     },
     {
         "type": "ignoreCharacter",
-        "characterName": "Goatgeezus",
+        "name": "Goatgeezus",
         "realm": "[HU] Warriors of Darkness"
     },
     {
         "type": "ignoreCharacter",
-        "characterName": "Imlikepewpew",
+        "name": "Imlikepewpew",
         "realm": "[HU] Tauri WoW Server"
     },
     {
         "type": "ignoreCharacter",
-        "characterName": "Mywar",
+        "name": "Mywar",
         "realm": "[EN] Evermoon"
     },
     {
         "type": "ignoreCharacter",
-        "characterName": "Aoitori",
+        "name": "Aoitori",
         "realm": "[EN] Evermoon"
     },
     {
         "type": "ignoreCharacter",
-        "characterName": "Tinygiant",
+        "name": "Tinygiant",
         "realm": "[EN] Evermoon"
     },
     {
         "type": "ignoreCharacter",
-        "characterName": "Fitzpleasure",
+        "name": "Fitzpleasure",
         "realm": "[EN] Evermoon"
     },
     {
         "type": "ignoreCharacter",
-        "characterName": "Fairplay",
+        "name": "Fairplay",
         "realm": "[EN] Evermoon"
     },
     {
         "type": "ignoreCharacter",
-        "characterName": "Pocketpick",
+        "name": "Pocketpick",
         "realm": "[EN] Evermoon"
     }
 ]
