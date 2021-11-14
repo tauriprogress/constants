@@ -27,5 +27,5 @@ export default {
     shortRealms,
     raidNameToId,
     tauri,
-    crystalsong
+    crystalsong,
 };
