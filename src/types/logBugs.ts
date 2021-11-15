@@ -54,7 +54,7 @@ export interface ChangeGuildData {
     guildIds: {
         [key: string]: true;
     };
-    changeTo: { name: string; faction: number };
+    changeTo: { name: string; faction: 0 | 1 };
 }
 
 export type LogBugs = (
