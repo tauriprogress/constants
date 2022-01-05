@@ -68,7 +68,7 @@ const bossFields = [
 describe("Tauri current content", () => {
     describe(`Has all required fields`, () => {
         for (const field of currentContentFields) {
-            test(field.key.toUpperCase(), () => {
+            test(field.key, () => {
                 field.test(currentContent[field.key]);
             });
         }
@@ -76,22 +76,26 @@ describe("Tauri current content", () => {
 
     describe(`Raids have all required fields`, () => {
         for (const raid of currentContent.raids) {
-            for (const field of raidFields) {
-                test(field.key.toUpperCase(), () => {
-                    field.test(raid[field.key]);
-                });
-            }
+            describe(raid.name, () => {
+                for (const field of raidFields) {
+                    test(field.key, () => {
+                        field.test(raid[field.key]);
+                    });
+                }
+            });
         }
     });
 
     describe(`Bosses have all required fields`, () => {
         for (const raid of currentContent.raids) {
-            for (const field of bossFields) {
-                for (const boss of raid.bosses) {
-                    test(field.key.toUpperCase(), () => {
-                        field.test(boss[field.key]);
-                    });
-                }
+            for (const boss of raid.bosses) {
+                describe(boss.name, () => {
+                    for (const field of bossFields) {
+                        test(field.key, () => {
+                            field.test(boss[field.key]);
+                        });
+                    }
+                });
             }
         }
     });
