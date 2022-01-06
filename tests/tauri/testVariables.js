@@ -11,8 +11,14 @@ const specIds = [
     269, 270,
 ];
 
+const roles = ["damage", "heal", "tank"];
+
+const rangeTypes = ["ranged", "melee"];
+
 module.exports = {
     realms,
     factions,
     specIds,
+    roles,
+    rangeTypes,
 };
