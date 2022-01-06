@@ -1,4 +1,4 @@
-import * as characterClassToSpec from "./characterClassToSpec.json";
+import * as characterClassToSpec from "./shared/characterClassSpecs";
 import * as characterRaceNames from "./characterRaceNames.json";
 import * as characterRaceToFaction from "./characterRaceToFaction.json";
 import * as characterSpecToClass from "./characterSpecToClass.json";
