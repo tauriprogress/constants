@@ -1,11 +1,11 @@
-import * as currentContent from "./currentContent";
-import * as guildFactionBugs from "./guildFactionBugs";
-import * as realms from "./realms";
-import * as specs from "./specs";
-import * as urls from "./urls";
-import * as difficultyNames from "./difficultyNames";
-import * as characterClassNames from "./characterClassNames";
-import * as seasons from "./seasons";
+import currentContent from "./currentContent";
+import guildFactionBugs from "./guildFactionBugs";
+import realms from "./realms";
+import specs from "./specs";
+import urls from "./urls";
+import difficultyNames from "./difficultyNames";
+import characterClassNames from "./characterClassNames";
+import seasons from "./seasons";
 import logBugs from "./logBugs";
 
 export { currentContent };

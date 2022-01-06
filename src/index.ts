@@ -1,31 +1,28 @@
-import * as characterClassToSpec from "./shared/characterClassSpecs";
-import * as characterRaceNames from "./shared/characterRaceNames";
-import * as characterRaceToFaction from "./shared/characterRaceFaction";
-import * as characterSpecToClass from "./characterSpecToClass.json";
-import * as itemSlotNames from "./itemSlotNames.json";
-import * as shortRealms from "./shortRealms.json";
-import * as raidNameToId from "./raidNameToId.json";
 import * as tauri from "./tauri";
 import * as crystalsong from "./crystalsong";
+import * as shared from "./shared";
+import {
+    characterClassSpecs,
+    characterRaceFaction,
+    characterRaceNames,
+    characterSpecClass,
+    itemSlotNames,
+    raidNameId,
+    shortRealms,
+} from "./shared";
 
-export { characterClassToSpec };
+export { characterClassSpecs };
+export { characterRaceFaction };
 export { characterRaceNames };
-export { characterRaceToFaction };
-export { characterSpecToClass };
+export { characterSpecClass };
 export { itemSlotNames };
+export { raidNameId };
 export { shortRealms };
-export { raidNameToId };
 export { tauri };
 export { crystalsong };
 
 export default {
-    characterClassToSpec,
-    characterRaceNames,
-    characterRaceToFaction,
-    characterSpecToClass,
-    itemSlotNames,
-    shortRealms,
-    raidNameToId,
+    ...shared,
     tauri,
     crystalsong,
 };
