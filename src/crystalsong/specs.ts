@@ -232,6 +232,7 @@ export default Object.freeze({
         isDps: true,
         isHealer: true,
         isTank: false,
+        image: "shaman_elemental",
         id: 262,
         role: "damage",
         rangeType: "ranged",

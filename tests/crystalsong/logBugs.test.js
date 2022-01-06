@@ -1,4 +1,4 @@
-const logBugs = require("../../src/tauri/logBugs").default;
+const logBugs = require("../../src/crystalsong/logBugs").default;
 const { realms, specIds } = require("./testVariables");
 
 function testDate(value) {
@@ -126,7 +126,7 @@ const bugs = {
     ],
 };
 
-describe("Tauri log bugs", () => {
+describe("Crystalsong log bugs", () => {
     test("Guild log bugs is an array", () => {
         expect(Array.isArray(logBugs)).toBe(true);
     });
