@@ -1,4 +1,5 @@
-import { LogBugs } from "./types";
+import { LogBugs } from "../globalTypes";
+import { Realm, SpecId } from "./types";
 
 export default [
     {
@@ -154,4 +155,4 @@ export default [
         name: "Pocketpick",
         realm: "[EN] Evermoon",
     },
-] as LogBugs;
+] as LogBugs<Realm, SpecId>;
