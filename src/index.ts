@@ -1,6 +1,6 @@
 import * as characterClassToSpec from "./shared/characterClassSpecs";
 import * as characterRaceNames from "./shared/characterRaceNames";
-import * as characterRaceToFaction from "./characterRaceToFaction.json";
+import * as characterRaceToFaction from "./shared/characterRaceFaction";
 import * as characterSpecToClass from "./characterSpecToClass.json";
 import * as itemSlotNames from "./itemSlotNames.json";
 import * as shortRealms from "./shortRealms.json";
