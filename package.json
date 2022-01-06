@@ -1,13 +1,13 @@
 {
     "name": "tauriprogress-constants",
-    "version": "4.1.23",
+    "version": "5.0.0",
     "description": "",
     "main": "build/index.js",
     "types": "build/index.d.ts",
     "scripts": {
         "compile": "tsc --project tsconfig.json",
         "dev": "tsc --watch",
-        "deploy": "npm run compile && npm publish",
+        "deploy": "jest && npm run compile && npm publish",
         "test": "jest"
     },
     "repository": {
