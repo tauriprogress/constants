@@ -23,7 +23,7 @@ describe("Shared character race faction", () => {
     });
 
     for (const { id, faction } of classes) {
-        test(`Class ${id}}`, () => {
+        test(`Class ${id}`, () => {
             expect(characterRaceFaction[id]).toBe(faction);
         });
     }
