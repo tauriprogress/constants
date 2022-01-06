@@ -96,14 +96,14 @@ export default [
         specId: 265,
     },
     {
-        type: "overwriteSpec",
+        type: "overwriteSpecOfCharacter",
         logId: 1625944,
         realm: "[EN] Evermoon",
         characterName: "Shrekky",
         specId: 265,
     },
     {
-        type: "overwriteSpec",
+        type: "overwriteSpecOfCharacter",
         logId: 1626046,
         realm: "[EN] Evermoon",
         characterName: "Shrekky",
