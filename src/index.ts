@@ -9,6 +9,7 @@ import {
     itemSlotNames,
     raidNameId,
     shortRealms,
+    realmGroups,
 } from "./shared";
 
 export { characterClassSpecs };
@@ -18,6 +19,7 @@ export { characterSpecClass };
 export { itemSlotNames };
 export { raidNameId };
 export { shortRealms };
+export { realmGroups };
 export { tauri };
 export { crystalsong };
 

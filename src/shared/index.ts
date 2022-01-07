@@ -5,6 +5,7 @@ import characterSpecClass from "./characterSpecClass";
 import itemSlotNames from "./itemSlotNames";
 import raidNameId from "./raidNameId";
 import shortRealms from "./shortRealms";
+import realmGroups from "./realmGroups";
 
 export { characterClassSpecs };
 export { characterRaceFaction };
@@ -13,3 +14,4 @@ export { characterSpecClass };
 export { itemSlotNames };
 export { raidNameId };
 export { shortRealms };
+export { realmGroups };
