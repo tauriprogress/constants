@@ -1,1 +1,1 @@
-export default ["Crystalsong"] as ["Crystalsong"];
+export default ["Crystalsong"] as const;

@@ -1,16 +1,3 @@
-import { Role, RangeType } from "../globalTypes";
-
-type SpecMetadata = {
-    label: string;
-    isDps: boolean;
-    isHealer: boolean;
-    isTank: boolean;
-    image: string;
-    id: number;
-    role: Role;
-    rangeType: RangeType;
-};
-
 export default Object.freeze({
     64: {
         label: "Frost Mage",
@@ -21,7 +8,7 @@ export default Object.freeze({
         id: 64,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     63: {
         label: "Fire Mage",
         isDps: true,
@@ -31,7 +18,7 @@ export default Object.freeze({
         id: 63,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     62: {
         label: "Arcane Mage",
         isDps: true,
@@ -41,7 +28,7 @@ export default Object.freeze({
         id: 62,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     254: {
         label: "Marksmanship Hunter",
         isDps: true,
@@ -51,7 +38,7 @@ export default Object.freeze({
         id: 254,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     253: {
         label: "Beast Mastery Hunter",
         isDps: true,
@@ -61,7 +48,7 @@ export default Object.freeze({
         id: 253,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     255: {
         label: "Survival Hunter",
         isDps: true,
@@ -71,7 +58,7 @@ export default Object.freeze({
         id: 255,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     105: {
         label: "Restoration Druid",
         isDps: false,
@@ -81,7 +68,7 @@ export default Object.freeze({
         id: 105,
         role: "heal",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     103: {
         label: "Feral Combat Druid",
         isDps: true,
@@ -91,7 +78,7 @@ export default Object.freeze({
         id: 103,
         role: "damage",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
     102: {
         label: "Balance Druid",
         isDps: true,
@@ -101,7 +88,7 @@ export default Object.freeze({
         id: 102,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
 
     250: {
         label: "Blood Death Knight",
@@ -112,7 +99,7 @@ export default Object.freeze({
         id: 250,
         role: "tank",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
 
     251: {
         label: "Frost Death Knight",
@@ -123,7 +110,7 @@ export default Object.freeze({
         id: 251,
         role: "damage",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
 
     252: {
         label: "Unholy Death Knight",
@@ -134,7 +121,7 @@ export default Object.freeze({
         id: 252,
         role: "damage",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
 
     65: {
         label: "Holy Paladin",
@@ -145,7 +132,7 @@ export default Object.freeze({
         id: 65,
         role: "heal",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     66: {
         label: "Protection Paladin",
         isDps: true,
@@ -155,7 +142,7 @@ export default Object.freeze({
         id: 66,
         role: "tank",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
     70: {
         label: "Retribution Paladin",
         isDps: true,
@@ -165,7 +152,7 @@ export default Object.freeze({
         id: 70,
         role: "damage",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
     256: {
         label: "Discipline Priest",
         isDps: false,
@@ -175,7 +162,7 @@ export default Object.freeze({
         id: 256,
         role: "heal",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     257: {
         label: "Holy Priest",
         isDps: false,
@@ -185,7 +172,7 @@ export default Object.freeze({
         id: 257,
         role: "heal",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     258: {
         label: "Shadow Priest",
         isDps: true,
@@ -195,7 +182,7 @@ export default Object.freeze({
         id: 258,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
 
     259: {
         label: "Assassination Rogue",
@@ -206,7 +193,7 @@ export default Object.freeze({
         id: 259,
         role: "damage",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
     260: {
         label: "Combat Rogue",
         isDps: true,
@@ -216,7 +203,7 @@ export default Object.freeze({
         id: 260,
         role: "damage",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
     261: {
         label: "Subtlety Rogue",
         isDps: true,
@@ -226,7 +213,7 @@ export default Object.freeze({
         id: 261,
         role: "damage",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
     262: {
         label: "Elemental Shaman",
         isDps: true,
@@ -236,7 +223,7 @@ export default Object.freeze({
         id: 262,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     263: {
         label: "Enhancement Shaman",
         isDps: true,
@@ -246,7 +233,7 @@ export default Object.freeze({
         id: 263,
         role: "damage",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
     264: {
         label: "Restoration Shaman",
         isDps: true,
@@ -256,7 +243,7 @@ export default Object.freeze({
         id: 264,
         role: "heal",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
 
     265: {
         label: "Affliction Warlock",
@@ -267,7 +254,7 @@ export default Object.freeze({
         id: 265,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     266: {
         label: "Demonology Warlock",
         isDps: true,
@@ -277,7 +264,7 @@ export default Object.freeze({
         id: 266,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
     267: {
         label: "Destruction Warlock",
         isDps: true,
@@ -287,7 +274,7 @@ export default Object.freeze({
         id: 267,
         role: "damage",
         rangeType: "ranged",
-    } as SpecMetadata,
+    },
 
     71: {
         label: "Arms Warrior",
@@ -298,7 +285,7 @@ export default Object.freeze({
         id: 71,
         role: "damage",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
     72: {
         label: "Fury Warrior",
         isDps: true,
@@ -308,7 +295,7 @@ export default Object.freeze({
         id: 72,
         role: "damage",
         rangeType: "melee",
-    } as SpecMetadata,
+    },
     73: {
         label: "Protection Warrior",
         isDps: true,
@@ -318,5 +305,5 @@ export default Object.freeze({
         id: 73,
         role: "tank",
         rangeType: "melee",
-    } as SpecMetadata,
-});
+    },
+} as const);

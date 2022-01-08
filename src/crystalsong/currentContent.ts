@@ -61,4 +61,4 @@ export default Object.freeze({
             ],
         },
     ],
-});
+} as const);
