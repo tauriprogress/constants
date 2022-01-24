@@ -7,7 +7,7 @@
     "scripts": {
         "compile": "tsc --project tsconfig.json",
         "dev": "tsc --watch",
-        "deploy": "npm run compile && npm publish"
+        "deploy": "npm run compile && npm publish --tag 4.x-ver"
     },
     "repository": {
         "type": "git",
