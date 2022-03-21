@@ -28,6 +28,11 @@ export default [
         realm: "[HU] Tauri WoW Server",
     },
     {
+        type: "ignoreLogOfId",
+        id: 2037960,
+        realm: "[HU] Tauri WoW Server",
+    },
+    {
         type: "ignoreBossOfDate",
         date: {
             from: 0,
