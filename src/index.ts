@@ -10,6 +10,7 @@ import {
     raidNameId,
     shortRealms,
     realmGroups,
+    maxCharacterScore,
 } from "./shared";
 
 export { characterClassSpecs };
@@ -22,6 +23,7 @@ export { shortRealms };
 export { realmGroups };
 export { tauri };
 export { crystalsong };
+export { maxCharacterScore };
 
 export default {
     ...shared,

@@ -7,6 +7,9 @@ import raidNameId from "./raidNameId";
 import shortRealms from "./shortRealms";
 import realmGroups from "./realmGroups";
 
+const maxCharacterScore = 6969 as const;
+
+export { maxCharacterScore };
 export { characterClassSpecs };
 export { characterRaceFaction };
 export { characterRaceNames };
