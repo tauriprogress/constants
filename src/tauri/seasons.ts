@@ -14,4 +14,9 @@ export default [
         start: "2022-01-05T07:00:00Z",
         finish: "2022-03-30T07:00:00Z",
     },
+    {
+        name: "Season 4",
+        start: "2022-04-06T07:00:00Z",
+        finish: "2022-06-29T07:00:00Z",
+    },
 ] as const;
