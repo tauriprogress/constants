@@ -7,6 +7,7 @@ import difficultyNames from "./difficultyNames";
 import characterClassNames from "./characterClassNames";
 import seasons from "./seasons";
 import logBugs from "./logBugs";
+import talents from "./talents";
 
 export { currentContent };
 export { guildFactionBugs };
@@ -17,3 +18,4 @@ export { urls };
 export { difficultyNames };
 export { characterClassNames };
 export { seasons };
+export { talents };
