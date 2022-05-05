@@ -13,6 +13,10 @@ const fields = [
         key: "icon",
         test: (value) => expect(isValidHttpUrl(value)).toBe(true),
     },
+    {
+        key: "shoot",
+        test: (value) => expect(isValidHttpUrl(value)).toBe(true),
+    },
 ];
 
 function isValidHttpUrl(string) {
