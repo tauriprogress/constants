@@ -8,6 +8,7 @@ import characterClassNames from "./characterClassNames";
 import seasons from "./seasons";
 import logBugs from "./logBugs";
 import talents from "./talents";
+import expansion from "./expansion";
 
 export { currentContent };
 export { guildFactionBugs };
@@ -19,3 +20,4 @@ export { difficultyNames };
 export { characterClassNames };
 export { seasons };
 export { talents };
+export { expansion };
