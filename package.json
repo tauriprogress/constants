@@ -1,6 +1,6 @@
 {
     "name": "tauriprogress-constants",
-    "version": "5.2.8",
+    "version": "6.0.0",
     "description": "",
     "main": "build/index.js",
     "types": "build/index.d.ts",

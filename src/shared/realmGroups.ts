@@ -1,1 +1,1 @@
-export default ["tauri", "crystalsong"] as const;
+export default ["tauri", "crystalsong", "mistblade"] as const;

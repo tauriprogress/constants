@@ -1,5 +1,6 @@
 import * as tauri from "./tauri";
 import * as crystalsong from "./crystalsong";
+import * as mistblade from "./mistblade";
 import * as shared from "./shared";
 import {
     characterClassSpecs,
@@ -23,10 +24,12 @@ export { shortRealms };
 export { realmGroups };
 export { tauri };
 export { crystalsong };
+export { mistblade };
 export { maxCharacterScore };
 
 export default {
     ...shared,
     tauri,
     crystalsong,
+    mistblade,
 };

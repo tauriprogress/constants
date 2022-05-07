@@ -5,6 +5,7 @@ const realms = {
     "[HU] Warriors of Darkness": "w",
     "[EN] Evermoon": "e",
     Crystalsong: "c",
+    Mistblade: "m",
 };
 
 describe("Shared short realms", () => {
