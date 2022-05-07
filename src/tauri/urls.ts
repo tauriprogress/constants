@@ -4,4 +4,5 @@ export default Object.freeze({
     icon: "https://mop-static.tauri.hu/images/icons",
     seasonal: "https://seasonal-tauriprogress-server.glitch.me",
     shoot: "https://mop-shoot.tauri.hu",
+    api: "http://chapi.tauri.hu/apiIndex.php",
 } as const);

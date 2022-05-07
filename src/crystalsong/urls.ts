@@ -3,4 +3,5 @@ export default Object.freeze({
     server: "https://tauriprogress-crystalsong.glitch.me",
     icon: "https://static.tauri.hu/images/icons",
     shoot: "https://wotlk-shoot.tauri.hu",
+    api: "http://chapi.tauri.hu/apiIndex.php",
 } as const);

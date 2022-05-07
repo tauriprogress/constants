@@ -17,6 +17,10 @@ const fields = [
         key: "shoot",
         test: (value) => expect(isValidHttpUrl(value)).toBe(true),
     },
+    {
+        key: "api",
+        test: (value) => expect(isValidHttpUrl(value)).toBe(true),
+    },
 ];
 
 function isValidHttpUrl(string) {
