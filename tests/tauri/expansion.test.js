@@ -1,7 +1,9 @@
 const expansion = require("../../src/tauri/expansion").default;
 
+const comparison = "mop";
+
 describe("Tauri expansion", () => {
-    test("Tauri's expansion is mop", () => {
-        expect(expansion).toBe("mop");
+    test(`Tauri's expansion is ${comparison}`, () => {
+        expect(expansion).toBe(comparison);
     });
 });
