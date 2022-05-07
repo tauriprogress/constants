@@ -9,6 +9,7 @@ import seasons from "./seasons";
 import logBugs from "./logBugs";
 import expansion from "./expansion";
 import defaultDifficulty from "./defaultDifficulty";
+import defaultRealm from "./defaultRealm";
 
 export { currentContent };
 export { guildFactionBugs };
@@ -21,3 +22,4 @@ export { characterClassNames };
 export { seasons };
 export { expansion };
 export { defaultDifficulty };
+export { defaultRealm };
