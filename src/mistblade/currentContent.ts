@@ -1,7 +1,7 @@
 export default Object.freeze({
     abbreviation: "TOES",
-    name: "Siege of Orgrimmar",
-    lastBoss: "Terrace of Endless Spring",
+    name: "Terrace of Endless Spring",
+    lastBoss: "Sha of Fear",
     bossCount: 4,
     completionDifficulties: [5, 6],
     raids: [
