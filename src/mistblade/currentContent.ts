@@ -1,10 +1,112 @@
 export default Object.freeze({
-    abbreviation: "TOES",
-    name: "Terrace of Endless Spring",
-    lastBoss: "Sha of Fear",
-    bossCount: 4,
+    abbreviation: "TOT",
+    name: "Throne of Thunder",
+    lastBoss: "Ra-den",
+    bossCount: 13,
     completionDifficulties: [5, 6],
     raids: [
+        {
+            name: "Throne of Thunder",
+            lastBoss: "Ra-den",
+            bossCount: 13,
+            id: 1098,
+            difficulties: [5, 6],
+            image: "tot.png",
+
+            bosses: [
+                {
+                    name: "Jin'rokh the Breaker",
+                    bossIdOfDifficulty: {
+                        "5": 1577,
+                        "6": 1577,
+                    },
+                },
+                {
+                    name: "Horridon",
+                    bossIdOfDifficulty: {
+                        "5": 1575,
+                        "6": 1575,
+                    },
+                },
+                {
+                    name: "Council of Elders",
+                    bossIdOfDifficulty: {
+                        "5": 1570,
+                        "6": 1570,
+                    },
+                },
+                {
+                    name: "Tortos",
+                    bossIdOfDifficulty: {
+                        "5": 1565,
+                        "6": 1565,
+                    },
+                },
+                {
+                    name: "Megaera",
+                    bossIdOfDifficulty: {
+                        "5": 1578,
+                        "6": 1578,
+                    },
+                },
+                {
+                    name: "Ji-Kun",
+                    bossIdOfDifficulty: {
+                        "5": 1573,
+                        "6": 1573,
+                    },
+                },
+                {
+                    name: "Durumu the Forgotten",
+                    bossIdOfDifficulty: {
+                        "5": 1572,
+                        "6": 1572,
+                    },
+                },
+                {
+                    name: "Primordius",
+                    bossIdOfDifficulty: {
+                        "5": 1574,
+                        "6": 1574,
+                    },
+                },
+                {
+                    name: "Dark Animus",
+                    bossIdOfDifficulty: {
+                        "5": 1576,
+                        "6": 1576,
+                    },
+                },
+                {
+                    name: "Iron Qon",
+                    bossIdOfDifficulty: {
+                        "5": 1559,
+                        "6": 1559,
+                    },
+                },
+                {
+                    name: "Twin Consorts",
+                    bossIdOfDifficulty: {
+                        "5": 1560,
+                        "6": 1560,
+                    },
+                },
+                {
+                    name: "Lei Shen",
+                    bossIdOfDifficulty: {
+                        "5": 1579,
+                        "6": 1579,
+                    },
+                },
+                {
+                    name: "Ra-den",
+                    bossIdOfDifficulty: {
+                        "5": 1580,
+                        "6": 1581,
+                    },
+                },
+            ],
+        },
         {
             name: "Terrace of Endless Spring",
             lastBoss: "Sha of Fear",
