@@ -1,3 +1,5 @@
+import { Realm } from "../tauri/types";
+
 export type Faction = 0 | 1;
 export type Role = "damage" | "heal" | "tank";
 export type RangeType = "melee" | "ranged";
@@ -61,6 +63,13 @@ export interface ChangeGuildData {
     changeTo: { name: string; faction: 0 | 1 };
 }
 
+export interface RemoveCharacterFromLogs {
+    type: "removeCharacterFromLogs";
+    characterName: string;
+    realm: Realm;
+    date: CustomDateObject;
+}
+
 export type LogBugs<Realm, SpecId> = (
     | IgnoreLogOfId<Realm>
     | IgnoreBossOfDate
@@ -70,4 +79,5 @@ export type LogBugs<Realm, SpecId> = (
     | IgnoreCharacter<Realm>
     | ChangeKilltimeOfLog
     | ChangeGuildData
+    | RemoveCharacterFromLogs
 )[];

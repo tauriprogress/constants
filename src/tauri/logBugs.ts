@@ -165,4 +165,13 @@ export default [
         name: "Pocketpick",
         realm: "[EN] Evermoon",
     },
+    {
+        type: "removeCharacterFromLogs",
+        characterName: "Curser",
+        realm: "[EN] Evermoon",
+        date: {
+            from: 1649228400,
+            to: 1654679173,
+        },
+    },
 ] as LogBugs<Realm, SpecId>;
