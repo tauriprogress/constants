@@ -201,7 +201,7 @@ export default Object.freeze({
     },
     257: {
         label: "Holy Priest",
-        isDps: false,
+        isDps: true,
         isHealer: true,
         isTank: false,
         image: "priest_holy",
