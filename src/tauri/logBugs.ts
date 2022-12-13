@@ -179,4 +179,13 @@ export default [
             to: 1654679173,
         },
     },
+    {
+        type: "removeCharacterFromLogs",
+        characterName: "Convoke",
+        realm: "[EN] Evermoon",
+        date: {
+            from: 0,
+            to: 1670921104,
+        },
+    },
 ] as LogBugs<Realm, SpecId>;
