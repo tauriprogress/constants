@@ -38,6 +38,11 @@ export default [
         realm: "[EN] Evermoon",
     },
     {
+        type: "ignoreLogOfId",
+        id: 2148332,
+        realm: "[HU] Tauri WoW Server",
+    },
+    {
         type: "ignoreBossOfDate",
         date: {
             from: 0,
