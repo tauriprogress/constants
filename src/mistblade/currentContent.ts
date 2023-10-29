@@ -125,92 +125,92 @@ export default Object.freeze({
                 {
                     name: "Jin'rokh the Breaker",
                     bossIdOfDifficulty: {
-                        "5": 1577,
-                        "6": 1577,
+                        5: 1577,
+                        6: 1577,
                     },
                 },
                 {
                     name: "Horridon",
                     bossIdOfDifficulty: {
-                        "5": 1575,
-                        "6": 1575,
+                        5: 1575,
+                        6: 1575,
                     },
                 },
                 {
                     name: "Council of Elders",
                     bossIdOfDifficulty: {
-                        "5": 1570,
-                        "6": 1570,
+                        5: 1570,
+                        6: 1570,
                     },
                 },
                 {
                     name: "Tortos",
                     bossIdOfDifficulty: {
-                        "5": 1565,
-                        "6": 1565,
+                        5: 1565,
+                        6: 1565,
                     },
                 },
                 {
                     name: "Megaera",
                     bossIdOfDifficulty: {
-                        "5": 1578,
-                        "6": 1578,
+                        5: 1578,
+                        6: 1578,
                     },
                 },
                 {
                     name: "Ji-Kun",
                     bossIdOfDifficulty: {
-                        "5": 1573,
-                        "6": 1573,
+                        5: 1573,
+                        6: 1573,
                     },
                 },
                 {
                     name: "Durumu the Forgotten",
                     bossIdOfDifficulty: {
-                        "5": 1572,
-                        "6": 1572,
+                        5: 1572,
+                        6: 1572,
                     },
                 },
                 {
                     name: "Primordius",
                     bossIdOfDifficulty: {
-                        "5": 1574,
-                        "6": 1574,
+                        5: 1574,
+                        6: 1574,
                     },
                 },
                 {
                     name: "Dark Animus",
                     bossIdOfDifficulty: {
-                        "5": 1576,
-                        "6": 1576,
+                        5: 1576,
+                        6: 1576,
                     },
                 },
                 {
                     name: "Iron Qon",
                     bossIdOfDifficulty: {
-                        "5": 1559,
-                        "6": 1559,
+                        5: 1559,
+                        6: 1559,
                     },
                 },
                 {
                     name: "Twin Consorts",
                     bossIdOfDifficulty: {
-                        "5": 1560,
-                        "6": 1560,
+                        5: 1560,
+                        6: 1560,
                     },
                 },
                 {
                     name: "Lei Shen",
                     bossIdOfDifficulty: {
-                        "5": 1579,
-                        "6": 1579,
+                        5: 1579,
+                        6: 1579,
                     },
                 },
                 {
                     name: "Ra-den",
                     bossIdOfDifficulty: {
-                        "5": 1580,
-                        "6": 1581,
+                        5: 1580,
+                        6: 1581,
                     },
                 },
             ],
