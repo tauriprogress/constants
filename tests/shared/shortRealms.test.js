@@ -6,6 +6,7 @@ const realms = {
     "[EN] Evermoon": "e",
     Crystalsong: "c",
     Mistblade: "m",
+    "Mistblade Season 2": "mb2",
 };
 
 describe("Shared short realms", () => {

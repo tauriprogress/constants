@@ -4,4 +4,5 @@ export default Object.freeze({
     "[EN] Evermoon": "e",
     Crystalsong: "c",
     Mistblade: "m",
+    "Mistblade Season 2": "mb2",
 } as const);
