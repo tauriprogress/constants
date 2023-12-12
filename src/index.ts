@@ -1,6 +1,7 @@
 import * as tauri from "./tauri";
 import * as crystalsong from "./crystalsong";
 import * as mistblade from "./mistblade";
+import * as mistblade2 from "./mistblade2";
 import * as shared from "./shared";
 import {
     characterClassSpecs,
@@ -32,4 +33,5 @@ export default {
     tauri,
     crystalsong,
     mistblade,
+    mistblade2,
 };

@@ -1,5 +1,5 @@
 const realmGroups = require("../../src/shared/realmGroups").default;
-const testCaseRealmGroups = ["tauri", "mistblade"];
+const testCaseRealmGroups = ["tauri", "mistblade", "mistblade2"];
 
 describe("Shared realmgroups", () => {
     test(`There are ${testCaseRealmGroups.length} realmgroups`, () => {
