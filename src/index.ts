@@ -26,6 +26,7 @@ export { realmGroups };
 export { tauri };
 export { crystalsong };
 export { mistblade };
+export { mistblade2 };
 export { maxCharacterScore };
 
 export default {
