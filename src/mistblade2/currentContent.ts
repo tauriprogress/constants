@@ -1,10 +1,62 @@
 export default Object.freeze({
-    abbreviation: "MSV",
-    name: "Mogu'shan Vaults",
-    lastBoss: "Will of the Emperor",
+    abbreviation: "HOF",
+    name: "Heart of Fear",
+    lastBoss: "Grand Empress Shek'zeer",
     bossCount: 6,
     completionDifficulties: [5, 6],
     raids: [
+        {
+            name: "Heart of Fear",
+            lastBoss: "Grand Empress Shek'zeer",
+            bossCount: 6,
+            id: 1009,
+            difficulties: [5, 6],
+            image: "hof.png",
+            bosses: [
+                {
+                    name: "Imperial Vizier Zor'lok",
+                    bossIdOfDifficulty: {
+                        5: 1507,
+                        6: 1507,
+                    },
+                },
+                {
+                    name: "Blade Lord Ta'yak",
+                    bossIdOfDifficulty: {
+                        5: 1504,
+                        6: 1504,
+                    },
+                },
+                {
+                    name: "Garalon",
+                    bossIdOfDifficulty: {
+                        5: 1463,
+                        6: 1463,
+                    },
+                },
+                {
+                    name: "Wind Lord Mel'jarak",
+                    bossIdOfDifficulty: {
+                        5: 1498,
+                        6: 1498,
+                    },
+                },
+                {
+                    name: "Amber-Shaper Un'sok",
+                    bossIdOfDifficulty: {
+                        5: 1499,
+                        6: 1499,
+                    },
+                },
+                {
+                    name: "Grand Empress Shek'zeer",
+                    bossIdOfDifficulty: {
+                        5: 1501,
+                        6: 1501,
+                    },
+                },
+            ],
+        },
         {
             name: "Mogu'shan Vaults",
             lastBoss: "Will of the Emperor",
