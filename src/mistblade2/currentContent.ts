@@ -1,10 +1,49 @@
 export default Object.freeze({
-    abbreviation: "HOF",
-    name: "Heart of Fear",
-    lastBoss: "Grand Empress Shek'zeer",
-    bossCount: 6,
+    abbreviation: "TOES",
+    name: "Terrace of Endless Spring",
+    lastBoss: "Sha of Fear",
+    bossCount: 4,
     completionDifficulties: [5, 6],
     raids: [
+        {
+            name: "Terrace of Endless Spring",
+            lastBoss: "Sha of Fear",
+            bossCount: 4,
+            id: 996,
+            difficulties: [5, 6],
+            image: "toes.png",
+            bosses: [
+                {
+                    name: "Protectors of the Endless",
+                    bossIdOfDifficulty: {
+                        5: 1409,
+                        6: 1409,
+                    },
+                },
+                {
+                    name: "Tsulong",
+                    bossIdOfDifficulty: {
+                        5: 1505,
+                        6: 1505,
+                    },
+                },
+                {
+                    name: "Lei Shi",
+                    bossIdOfDifficulty: {
+                        5: 1506,
+                        6: 1506,
+                    },
+                },
+                {
+                    name: "Sha of Fear",
+                    bossIdOfDifficulty: {
+                        5: 1431,
+                        6: 1431,
+                    },
+                },
+            ],
+        },
+
         {
             name: "Heart of Fear",
             lastBoss: "Grand Empress Shek'zeer",
