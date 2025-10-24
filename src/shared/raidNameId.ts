@@ -11,4 +11,10 @@ export default Object.freeze({
     "Terrace of Endless Spring": 996,
     "Throne of Thunder": 1098,
     "Siege of Orgrimmar": 1136,
+    "Highmaul": 1228,
+    "The Emerald Nightmare": 1520,
+    "The Nighthold": 1530,
+    "Trial of Valor": 1648,
+    "Tomb of Sargeras": 1676,
+    "Antorus, the Burning Throne": 1712
 } as const);
