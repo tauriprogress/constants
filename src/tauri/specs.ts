@@ -1,5 +1,5 @@
 export default Object.freeze({
-    "62": {
+    62: {
         "label": "Arcane Mage",
         "isDps": true,
         "isHealer": false,
@@ -9,7 +9,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "ranged"
     },
-    "63": {
+    63: {
         "label": "Fire Mage",
         "isDps": true,
         "isHealer": false,
@@ -19,7 +19,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "ranged"
     },
-    "64": {
+    64: {
         "label": "Frost Mage",
         "isDps": true,
         "isHealer": false,
@@ -29,7 +29,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "ranged"
     },
-    "65": {
+    65: {
         "label": "Holy Paladin",
         "isDps": true,
         "isHealer": true,
@@ -39,7 +39,7 @@ export default Object.freeze({
         "role": "heal",
         "rangeType": "melee"
     },
-    "66": {
+    66: {
         "label": "Protection Paladin",
         "isDps": true,
         "isHealer": true,
@@ -49,7 +49,7 @@ export default Object.freeze({
         "role": "tank",
         "rangeType": "melee"
     },
-    "70": {
+    70: {
         "label": "Retribution Paladin",
         "isDps": true,
         "isHealer": false,
@@ -59,7 +59,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "71": {
+    71: {
         "label": "Arms Warrior",
         "isDps": true,
         "isHealer": false,
@@ -69,7 +69,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "72": {
+    72: {
         "label": "Fury Warrior",
         "isDps": true,
         "isHealer": false,
@@ -79,7 +79,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "73": {
+    73: {
         "label": "Protection Warrior",
         "isDps": true,
         "isHealer": true,
@@ -89,7 +89,7 @@ export default Object.freeze({
         "role": "tank",
         "rangeType": "melee"
     },
-    "102": {
+    102: {
         "label": "Balance Druid",
         "isDps": true,
         "isHealer": true,
@@ -99,7 +99,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "ranged"
     },
-    "103": {
+    103: {
         "label": "Feral Druid",
         "isDps": true,
         "isHealer": true,
@@ -109,7 +109,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "104": {
+    104: {
         "label": "Guardian Druid",
         "isDps": true,
         "isHealer": true,
@@ -119,7 +119,7 @@ export default Object.freeze({
         "role": "tank",
         "rangeType": "melee"
     },
-    "105": {
+    105: {
         "label": "Restoration Druid",
         "isDps": true,
         "isHealer": true,
@@ -129,7 +129,7 @@ export default Object.freeze({
         "role": "heal",
         "rangeType": "ranged"
     },
-    "250": {
+    250: {
         "label": "Blood Deathknight",
         "isDps": true,
         "isHealer": true,
@@ -139,7 +139,7 @@ export default Object.freeze({
         "role": "tank",
         "rangeType": "melee"
     },
-    "251": {
+    251: {
         "label": "Frost Deathknight",
         "isDps": true,
         "isHealer": false,
@@ -149,7 +149,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "252": {
+    252: {
         "label": "Unholy Deathknight",
         "isDps": true,
         "isHealer": false,
@@ -159,7 +159,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "253": {
+    253: {
         "label": "Beast Mastery Hunter",
         "isDps": true,
         "isHealer": false,
@@ -169,7 +169,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "ranged"
     },
-    "254": {
+    254: {
         "label": "Marksmanship Hunter",
         "isDps": true,
         "isHealer": false,
@@ -179,7 +179,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "ranged"
     },
-    "255": {
+    255: {
         "label": "Survival Hunter",
         "isDps": true,
         "isHealer": false,
@@ -189,7 +189,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "256": {
+    256: {
         "label": "Discipline Priest",
         "isDps": true,
         "isHealer": true,
@@ -199,7 +199,7 @@ export default Object.freeze({
         "role": "heal",
         "rangeType": "ranged"
     },
-    "257": {
+    257: {
         "label": "Holy Priest",
         "isDps": true,
         "isHealer": true,
@@ -209,7 +209,7 @@ export default Object.freeze({
         "role": "heal",
         "rangeType": "ranged"
     },
-    "258": {
+    258: {
         "label": "Shadow Priest",
         "isDps": true,
         "isHealer": true,
@@ -219,7 +219,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "ranged"
     },
-    "259": {
+    259: {
         "label": "Assassination Rogue",
         "isDps": true,
         "isHealer": false,
@@ -229,7 +229,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "260": {
+    260: {
         "label": "Outlaw Rogue",
         "isDps": true,
         "isHealer": false,
@@ -239,7 +239,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "261": {
+    261: {
         "label": "Subtlety Rogue",
         "isDps": true,
         "isHealer": false,
@@ -249,7 +249,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "262": {
+    262: {
         "label": "Elemental Shaman",
         "isDps": true,
         "isHealer": true,
@@ -259,7 +259,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "ranged"
     },
-    "263": {
+    263: {
         "label": "Enhancement Shaman",
         "isDps": true,
         "isHealer": true,
@@ -269,7 +269,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "264": {
+    264: {
         "label": "Restoration Shaman",
         "isDps": true,
         "isHealer": true,
@@ -279,7 +279,7 @@ export default Object.freeze({
         "role": "heal",
         "rangeType": "ranged"
     },
-    "265": {
+    265: {
         "label": "Affliction Warlock",
         "isDps": true,
         "isHealer": true,
@@ -289,7 +289,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "ranged"
     },
-    "266": {
+    266: {
         "label": "Demonology Warlock",
         "isDps": true,
         "isHealer": true,
@@ -299,7 +299,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "ranged"
     },
-    "267": {
+    267: {
         "label": "Destruction Warlock",
         "isDps": true,
         "isHealer": true,
@@ -309,7 +309,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "ranged"
     },
-    "268": {
+    268: {
         "label": "Brewmaster Monk",
         "isDps": true,
         "isHealer": true,
@@ -319,7 +319,7 @@ export default Object.freeze({
         "role": "tank",
         "rangeType": "melee"
     },
-    "269": {
+    269: {
         "label": "Windwalker Monk",
         "isDps": true,
         "isHealer": false,
@@ -329,7 +329,7 @@ export default Object.freeze({
         "role": "damage",
         "rangeType": "melee"
     },
-    "270": {
+    270: {
         "label": "Mistweaver Monk",
         "isDps": true,
         "isHealer": true,

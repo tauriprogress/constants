@@ -1,6 +1,6 @@
 
 export default Object.freeze({
-    "62": [
+    62: [
         {
             "id": 205022,
             "label": "Arcane Familiar",
@@ -149,7 +149,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "63": [
+    63: [
         {
             "id": 205020,
             "label": "Pyromaniac",
@@ -298,7 +298,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "64": [
+    64: [
         {
             "id": 205021,
             "label": "Ray of Frost",
@@ -447,7 +447,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "65": [
+    65: [
         {
             "id": 223306,
             "label": "Bestow Faith",
@@ -596,7 +596,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "66": [
+    66: [
         {
             "id": 152261,
             "label": "Holy Shield",
@@ -745,7 +745,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "70": [
+    70: [
         {
             "id": 198038,
             "label": "Final Verdict",
@@ -894,7 +894,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "71": [
+    71: [
         {
             "id": 202297,
             "label": "Dauntless",
@@ -1043,7 +1043,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "72": [
+    72: [
         {
             "id": 215556,
             "label": "War Machine",
@@ -1192,7 +1192,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "73": [
+    73: [
         {
             "id": 46968,
             "label": "Shockwave",
@@ -1341,7 +1341,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "102": [
+    102: [
         {
             "id": 205636,
             "label": "Force of Nature",
@@ -1490,7 +1490,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "103": [
+    103: [
         {
             "id": 202021,
             "label": "Predator",
@@ -1639,7 +1639,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "104": [
+    104: [
         {
             "id": 203953,
             "label": "Brambles",
@@ -1788,7 +1788,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "105": [
+    105: [
         {
             "id": 200383,
             "label": "Prosperity",
@@ -1937,7 +1937,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "250": [
+    250: [
         {
             "id": 195679,
             "label": "Bloodworms",
@@ -2086,7 +2086,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "251": [
+    251: [
         {
             "id": 207057,
             "label": "Shattering Strikes",
@@ -2235,7 +2235,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "252": [
+    252: [
         {
             "id": 194916,
             "label": "All Will Serve",
@@ -2384,7 +2384,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "253": [
+    253: [
         {
             "id": 204308,
             "label": "Big Game Hunter",
@@ -2533,7 +2533,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "254": [
+    254: [
         {
             "id": 155228,
             "label": "Lone Wolf",
@@ -2682,7 +2682,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "255": [
+    255: [
         {
             "id": 204315,
             "label": "Animal Instincts",
@@ -2831,7 +2831,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "256": [
+    256: [
         {
             "id": 109142,
             "label": "Twist of Fate",
@@ -2980,7 +2980,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "257": [
+    257: [
         {
             "id": 200128,
             "label": "Trail of Light",
@@ -3129,7 +3129,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "258": [
+    258: [
         {
             "id": 109142,
             "label": "Twist of Fate",
@@ -3278,7 +3278,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "259": [
+    259: [
         {
             "id": 196864,
             "label": "Master Poisoner",
@@ -3427,7 +3427,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "260": [
+    260: [
         {
             "id": 196937,
             "label": "Ghostly Strike",
@@ -3576,7 +3576,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "261": [
+    261: [
         {
             "id": 31223,
             "label": "Master of Subtlety",
@@ -3725,7 +3725,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "262": [
+    262: [
         {
             "id": 201909,
             "label": "Path of Flame",
@@ -3874,7 +3874,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "263": [
+    263: [
         {
             "id": 201898,
             "label": "Windsong",
@@ -4023,7 +4023,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "264": [
+    264: [
         {
             "id": 200071,
             "label": "Undulation",
@@ -4172,7 +4172,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "265": [
+    265: [
         {
             "id": 48181,
             "label": "Haunt",
@@ -4321,7 +4321,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "266": [
+    266: [
         {
             "id": 196269,
             "label": "Shadowy Inspiration",
@@ -4470,7 +4470,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "267": [
+    267: [
         {
             "id": 196406,
             "label": "Backdraft",
@@ -4619,7 +4619,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "268": [
+    268: [
         {
             "id": 123986,
             "label": "Chi Burst",
@@ -4768,7 +4768,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "269": [
+    269: [
         {
             "id": 123986,
             "label": "Chi Burst",
@@ -4917,7 +4917,7 @@ export default Object.freeze({
             "column": 2
         }
     ],
-    "270": [
+    270: [
         {
             "id": 123986,
             "label": "Chi Burst",
