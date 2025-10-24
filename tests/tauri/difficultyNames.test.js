@@ -1,20 +1,12 @@
 const difficultyNames = require("../../src/tauri/difficultyNames").default;
 const difficulties = [
     {
-        id: 3,
-        value: "10 N",
+        id: 15,
+        value: "Heroic",
     },
     {
-        id: 4,
-        value: "25 N",
-    },
-    {
-        id: 5,
-        value: "10 HC",
-    },
-    {
-        id: 6,
-        value: "25 HC",
+        id: 16,
+        value: "Mythic",
     },
 ];
 

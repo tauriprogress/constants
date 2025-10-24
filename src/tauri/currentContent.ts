@@ -1,114 +1,65 @@
 export default Object.freeze({
-    abbreviation: "SOO",
-    name: "Siege of Orgrimmar",
-    lastBoss: "Garrosh Hellscream",
-    bossCount: 14,
-    completionDifficulties: [5, 6],
+    abbreviation: "HM",
+    name: "Highmaul",
+    lastBoss: "Imperator Mar'gok",
+    bossCount: 7,
+    completionDifficulties: [16],
     raids: [
         {
-            name: "Siege of Orgrimmar",
-            lastBoss: "Garrosh Hellscream",
-            bossCount: 14,
-            id: 1136,
-            difficulties: [5, 6],
-            image: "soo.png",
+            name: "Highmaul",
+            lastBoss: "Imperator Mar'gok",
+            bossCount: 7,
+            id: 1228,
+            difficulties: [15, 16],
+            image: "hm.png",
             bosses: [
                 {
-                    name: "Immerseus",
+                    name: "Kargath Bladefist",
                     bossIdOfDifficulty: {
-                        5: 1602,
-                        6: 1602,
+                        15: 1721,
+                        16: 1721,
                     },
                 },
                 {
-                    name: "Fallen Protectors",
+                    name: "The Butcher",
                     bossIdOfDifficulty: {
-                        5: 1598,
-                        6: 1598,
+                        15: 1706,
+                        16: 1706,
                     },
                 },
                 {
-                    name: "Norushen",
+                    name: "Brackenspore",
                     bossIdOfDifficulty: {
-                        5: 1624,
-                        6: 1624,
+                        15: 1720,
+                        16: 1720,
                     },
                 },
                 {
-                    name: "Sha of Pride",
+                    name: "Tectus, The Living Mountain",
                     bossIdOfDifficulty: {
-                        5: 1604,
-                        6: 1604,
+                        15: 1722,
+                        16: 1722,
                     },
                 },
                 {
-                    name: "Galakras",
+                    name: "Twin Ogron",
                     bossIdOfDifficulty: {
-                        5: 1622,
-                        6: 1622,
+                        15: 1719,
+                        16: 1719,
                     },
                 },
                 {
-                    name: "Iron Juggernaut",
+                    name: "Ko'ragh",
                     bossIdOfDifficulty: {
-                        5: 1600,
-                        6: 1600,
+                        15: 1723,
+                        16: 1723,
                     },
                 },
                 {
-                    name: "Kor'kron Dark Shaman",
+                    name: "Imperator Mar'gok",
                     bossIdOfDifficulty: {
-                        5: 1606,
-                        6: 1606,
-                    },
-                },
-                {
-                    name: "General Nazgrim",
-                    bossIdOfDifficulty: {
-                        5: 1603,
-                        6: 1603,
-                    },
-                },
-                {
-                    name: "Malkorok",
-                    bossIdOfDifficulty: {
-                        5: 1595,
-                        6: 1595,
-                    },
-                },
-                {
-                    name: "Spoils of Pandaria",
-                    bossIdOfDifficulty: {
-                        5: 1594,
-                        6: 1594,
-                    },
-                },
-                {
-                    name: "Thok the Bloodthirsty",
-                    bossIdOfDifficulty: {
-                        5: 1599,
-                        6: 1599,
-                    },
-                },
-                {
-                    name: "Siegecrafter Blackfuse",
-                    bossIdOfDifficulty: {
-                        5: 1601,
-                        6: 1601,
-                    },
-                },
-                {
-                    name: "Paragons of the Klaxxi",
-                    bossIdOfDifficulty: {
-                        5: 1593,
-                        6: 1593,
-                    },
-                },
-                {
-                    name: "Garrosh Hellscream",
-                    bossIdOfDifficulty: {
-                        5: 1623,
-                        6: 1623,
+                        15: 1705,
+                        16: 1705,
                     },
                 },
             ],

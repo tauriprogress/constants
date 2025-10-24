@@ -1,5 +1,5 @@
 const talents = require("../../src/tauri/talents").default;
-const { classIds } = require("./testVariables");
+const { specIds } = require("./testVariables");
 
 const fields = [
     {
@@ -22,17 +22,17 @@ const fields = [
 ];
 
 describe("Tauri talents", () => {
-    test("All classes have talents", () => {
+    test("All specs have talents", () => {
         expect(talents instanceof Object).toBe(true);
-        for (const classId of classIds) {
-            expect(talents).toHaveProperty(String(classId));
+        for (const specId of specIds) {
+            expect(talents).toHaveProperty(String(specId));
         }
     });
 
     describe("Talents have required fields", () => {
-        for (const classId of classIds) {
-            test(`${classId}`, () => {
-                for (const talent of talents[classId]) {
+        for (const specId of specIds) {
+            test(`${specId}`, () => {
+                for (const talent of talents[specId]) {
                     for (const field of fields) {
                         field.test(talent[field.key]);
                     }
