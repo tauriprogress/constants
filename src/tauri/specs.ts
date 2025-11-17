@@ -130,7 +130,7 @@ export default Object.freeze({
         "rangeType": "ranged"
     },
     250: {
-        "label": "Blood Deathknight",
+        "label": "Blood Death knight",
         "isDps": true,
         "isHealer": true,
         "isTank": true,
@@ -140,7 +140,7 @@ export default Object.freeze({
         "rangeType": "melee"
     },
     251: {
-        "label": "Frost Deathknight",
+        "label": "Frost Death knight",
         "isDps": true,
         "isHealer": false,
         "isTank": false,
@@ -150,7 +150,7 @@ export default Object.freeze({
         "rangeType": "melee"
     },
     252: {
-        "label": "Unholy Deathknight",
+        "label": "Unholy Death knight",
         "isDps": true,
         "isHealer": false,
         "isTank": false,
