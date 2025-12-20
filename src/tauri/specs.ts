@@ -338,5 +338,26 @@ export default Object.freeze({
         "id": 270,
         "role": "heal",
         "rangeType": "melee"
+    },
+    577: {
+        "isDps": true,
+        "isHealer": false,
+        "isTank": false,
+        "label": "Havoc Demon hunter",
+        "image": "demonhunter_havoc",
+        "id": 577,
+        "role": "damage",
+        "rangeType": "melee"
+    },
+    581: {
+        "isDps": true,
+        "isHealer": true,
+        "isTank": true,
+        "label": "Vengeance Demon hunter",
+        "image": "demonhunter_vengeance",
+        "id": 581,
+        "role": "tank",
+        "rangeType": "melee"
     }
+
 } as const);

@@ -5065,5 +5065,303 @@ export default Object.freeze({
             "row": 6,
             "column": 2
         }
+    ],
+    577: [
+        {
+            "id": 192939,
+            "label": "Fel Mastery",
+            "image": "ability_skyreach_piercing_rush.png",
+            "row": 0,
+            "column": 0
+        },
+        {
+            "id": 232893,
+            "label": "Felblade",
+            "image": "ability_demonhunter_felblade.png",
+            "row": 0,
+            "column": 1
+        },
+        {
+            "id": 203550,
+            "label": "Blind Fury",
+            "image": "ability_bosskilrogg_deadeye.png",
+            "row": 0,
+            "column": 2
+        },
+        {
+            "id": 203551,
+            "label": "Prepared",
+            "image": "ability_demonhunter_vengefulretreat.png",
+            "row": 1,
+            "column": 0
+        },
+        {
+            "id": 203555,
+            "label": "Demon Blades",
+            "image": "inv_weapon_shortblade_92.png",
+            "row": 1,
+            "column": 1
+        },
+        {
+            "id": 206478,
+            "label": "Demonic Appetite",
+            "image": "spell_misc_zandalari_council_soulswap.png",
+            "row": 1,
+            "column": 2
+        },
+        {
+            "id": 206475,
+            "label": "Chaos Cleave",
+            "image": "inv_weapon_shortblade_62.png",
+            "row": 2,
+            "column": 0
+        },
+        {
+            "id": 206416,
+            "label": "First Blood",
+            "image": "ability_deathwing_bloodcorruption_death.png",
+            "row": 2,
+            "column": 1
+        },
+        {
+            "id": 206473,
+            "label": "Bloodlet",
+            "image": "ability_demonhunter_bloodlet.png",
+            "row": 2,
+            "column": 2
+        },
+        {
+            "id": 196555,
+            "label": "Netherwalk",
+            "image": "spell_warlock_demonsoul.png",
+            "row": 3,
+            "column": 0
+        },
+        {
+            "id": 205411,
+            "label": "Desperate Instincts",
+            "image": "spell_shadow_manafeed.png",
+            "row": 3,
+            "column": 1
+        },
+        {
+            "id": 204909,
+            "label": "Soul Rending",
+            "image": "ability_demonhunter_soulcleave2.png",
+            "row": 3,
+            "column": 2
+        },
+        {
+            "id": 206476,
+            "label": "Momentum",
+            "image": "ability_foundryraid_demolition.png",
+            "row": 4,
+            "column": 0
+        },
+        {
+            "id": 211881,
+            "label": "Fel Eruption",
+            "image": "ability_bossfellord_felspike.png",
+            "row": 4,
+            "column": 1
+        },
+        {
+            "id": 206491,
+            "label": "Nemesis",
+            "image": "ability_warlock_improveddemonictactics.png",
+            "row": 4,
+            "column": 2
+        },
+        {
+            "id": 203556,
+            "label": "Master of the Glaive",
+            "image": "inv_glaive_1h_demonhunter_a_01.png",
+            "row": 5,
+            "column": 0
+        },
+        {
+            "id": 206477,
+            "label": "Unleashed Power",
+            "image": "ability_demonhunter_chaosnova.png",
+            "row": 5,
+            "column": 1
+        },
+        {
+            "id": 193897,
+            "label": "Demon Reborn",
+            "image": "ability_warlock_demonicempowerment.png",
+            "row": 5,
+            "column": 2
+        },
+        {
+            "id": 247938,
+            "label": "Chaos Blades",
+            "image": "inv_glaive_1h_artifactaldrochi_d_03dual.png",
+            "row": 6,
+            "column": 0
+        },
+        {
+            "id": 211053,
+            "label": "Fel Barrage",
+            "image": "ability_felarakkoa_feldetonation_green.png",
+            "row": 6,
+            "column": 1
+        },
+        {
+            "id": 213410,
+            "label": "Demonic",
+            "image": "spell_shadow_demonform.png",
+            "row": 6,
+            "column": 2
+        }
+    ],
+    581: [
+        {
+            "id": 207550,
+            "label": "Abyssal Strike",
+            "image": "spell_warlock_summonabyssal.png",
+            "row": 0,
+            "column": 0
+        },
+        {
+            "id": 207548,
+            "label": "Agonizing Flames",
+            "image": "achievment_raid_houroftwilight.png",
+            "row": 0,
+            "column": 1
+        },
+        {
+            "id": 209400,
+            "label": "Razor Spikes",
+            "image": "ability_demonhunter_demonspikes2.png",
+            "row": 0,
+            "column": 2
+        },
+        {
+            "id": 207697,
+            "label": "Feast of Souls",
+            "image": "spell_shadow_soulleech.png",
+            "row": 1,
+            "column": 0
+        },
+        {
+            "id": 227174,
+            "label": "Fallout",
+            "image": "spell_volatilefiregreen.png",
+            "row": 1,
+            "column": 1
+        },
+        {
+            "id": 207739,
+            "label": "Burning Alive",
+            "image": "spell_fire_elementaldevastation.png",
+            "row": 1,
+            "column": 2
+        },
+        {
+            "id": 232893,
+            "label": "Felblade",
+            "image": "ability_demonhunter_felblade.png",
+            "row": 2,
+            "column": 0
+        },
+        {
+            "id": 227322,
+            "label": "Flame Crash",
+            "image": "spell_fire_felhellfire.png",
+            "row": 2,
+            "column": 1
+        },
+        {
+            "id": 211881,
+            "label": "Fel Eruption",
+            "image": "ability_bossfellord_felspike.png",
+            "row": 2,
+            "column": 2
+        },
+        {
+            "id": 218612,
+            "label": "Feed the Demon",
+            "image": "spell_warlock_demonicempowerment.png",
+            "row": 3,
+            "column": 0
+        },
+        {
+            "id": 209795,
+            "label": "Fracture",
+            "image": "ability_creature_felsunder.png",
+            "row": 3,
+            "column": 1
+        },
+        {
+            "id": 217996,
+            "label": "Soul Rending",
+            "image": "ability_demonhunter_soulcleave2.png",
+            "row": 3,
+            "column": 2
+        },
+        {
+            "id": 207666,
+            "label": "Concentrated Sigils",
+            "image": "ability_bossfelorcs_necromancer_red.png",
+            "row": 4,
+            "column": 0
+        },
+        {
+            "id": 202138,
+            "label": "Sigil of Chains",
+            "image": "ability_demonhunter_sigilofchains.png",
+            "row": 4,
+            "column": 1
+        },
+        {
+            "id": 209281,
+            "label": "Quickened Sigils",
+            "image": "ability_demonhunter_concentratedsigils.png",
+            "row": 4,
+            "column": 2
+        },
+        {
+            "id": 212084,
+            "label": "Fel Devastation",
+            "image": "ability_demonhunter_feldevastation.png",
+            "row": 5,
+            "column": 0
+        },
+        {
+            "id": 247254,
+            "label": "Blade Turning",
+            "image": "trade_archaeology_zinrokh-sword.png",
+            "row": 5,
+            "column": 1
+        },
+        {
+            "id": 247454,
+            "label": "Spirit Bomb",
+            "image": "inv_icon_shadowcouncilorb_purple.png",
+            "row": 5,
+            "column": 2
+        },
+        {
+            "id": 209258,
+            "label": "Last Resort",
+            "image": "inv_glaive_1h_artifactaldorchi_d_06.png",
+            "row": 6,
+            "column": 0
+        },
+        {
+            "id": 236189,
+            "label": "Demonic Infusion",
+            "image": "spell_warlock_demonsoul.png",
+            "row": 6,
+            "column": 1
+        },
+        {
+            "id": 227225,
+            "label": "Soul Barrier",
+            "image": "inv_glaive_1h_artifactaldrochi_d_05.png",
+            "row": 6,
+            "column": 2
+        }
     ]
 } as const);

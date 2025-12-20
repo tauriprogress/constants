@@ -35,6 +35,8 @@ const specs = [
     { specId: 268, characterClass: 10 },
     { specId: 269, characterClass: 10 },
     { specId: 270, characterClass: 10 },
+    { specId: 577, characterClass: 12 },
+    { specId: 581, characterClass: 12 },
 ];
 
 describe("Shared character spec classes", () => {

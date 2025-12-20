@@ -10,4 +10,5 @@ export default Object.freeze({
     9: "Warlock",
     10: "Monk",
     11: "Druid",
+    12: "Demon hunter"
 } as const);

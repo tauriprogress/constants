@@ -12,6 +12,7 @@ const classes = [
     { id: 9, label: "Warlock" },
     { id: 10, label: "Monk" },
     { id: 11, label: "Druid" },
+    { id: 12, label: "Demon hunter" },
 ];
 
 describe("Tauri character class names", () => {

@@ -33,4 +33,6 @@ export default Object.freeze({
     71: 1,
     72: 1,
     73: 1,
+    577: 12,
+    581: 12
 } as const);

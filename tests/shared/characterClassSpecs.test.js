@@ -12,6 +12,7 @@ const classes = [
     { id: 9, specs: [265, 266, 267] },
     { id: 10, specs: [270, 269, 268] },
     { id: 11, specs: [105, 104, 103, 102] },
+    { id: 12, specs: [577, 581] },
 ];
 
 describe("Shared character class specs", () => {
